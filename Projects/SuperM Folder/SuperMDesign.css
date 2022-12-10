@@ -1,0 +1,212 @@
+.Heading{
+    text-align: center;
+}
+.Video{
+    display: block;
+    font-size: large;
+    margin: auto;
+    text-align: center;
+    background-size: auto;
+    background-image: url("SuperM\ Jopping.jpeg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.Baekhyun{
+    text-align: center;
+    display: inline-block;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("SuperM\ Group\ Members\ 1.jpg");
+    background-size: 100%;
+}
+.Kai{
+    text-align: center;
+    display: inline-block;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("SuperM\ Group\ Members\ 2.jpg");
+    background-size: 100%;
+}
+.Taemin{
+    text-align: center;
+    display: inline-block;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("SuperM\ Group\ Members\ 3.jpg");
+    background-size: 100%;
+}
+.Taeyong{
+    text-align: center;
+    display: inline-block;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("SuperM\ Group\ Members\ 4.jpg");
+    background-size: 100%;
+}
+.Mark{
+    text-align: center;
+    display: inline-block;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("SuperM\ Group\ Members\ 5.jpg");
+    background-size: 100%;
+}
+.Lucas{
+    text-align: center;
+    display: inline-block;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("SuperM\ Group\ Members\ 6.jpg");
+    background-size: 100%;
+}
+.Ten{
+    text-align: center;
+    display: inline-block;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url("SuperM\ Group\ Members\ 7.jpg");
+    background-size: 100%;
+}
+.All_members{
+    text-align: center;
+    height: auto;
+    width: 100%;
+}
+.PI{
+    display: inline-block;
+    background-color: black;
+    color: white;
+}
+.Members_lineup{
+    background-color: black;
+    text-align: center;
+    color: white;
+    display: inline-block;
+}
+
+h2{
+    background-color: white;
+    color: black;
+    display: inline-block;
+}
+h3{
+    background-color: white;
+    color: black;
+    display: inline-block;
+}
+body{
+    background-image: url("SuperM\ Jopping\ HD.jpeg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100%;
+}
+video{
+    display: block;
+    font-size: large;
+    text-emphasis: end;
+    margin: auto;
+    width: 800;
+    height: 500;
+}
+/*
+    Styling for selection
+*/
+.Selection{
+    text-align: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+/*
+    Styling for Songs
+*/
+.Song_list{
+    text-align: center;
+}
+/*
+    Styling for list of songs
+    SuperM First Album Jopping
+*/
+.list_1{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+/*
+    Styling for second release
+    First Digital Single by SuperM
+*/
+.Digital_list{
+    background-color: black;
+    color: white;
+    background-attachment: fixed;
+    text-align: center;
+    display: inline-block;
+}
+/*
+    Styling for Third release
+    SuperM First Pre realease Single
+*/
+.First_Pre_single{
+    background-color: black;
+    color: white;
+    background-attachment: fixed;
+    text-align: center;
+    display: inline-block;
+}
+/*
+    Styling for Fourth Album release
+    SuperM Second Pre release
+*/
+.Second_pre_single{
+    color: white;
+    background-color: black;
+    text-align: center;
+    display: inline-block;
+    background-attachment: fixed; 
+}
+.list_2{
+    display: inline-block;
+    text-align: center;
+}
+/*
+    Styling for Fifth Album Release
+    SuperM Full Album Release
+*/
+.Album_list{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    text-align: center;
+}
+/*
+    Styling for the Album Cover
+*/
+.First_cover{
+    text-align: center;
+}
+.Seconds_cover{
+    text-align: center;
+}
+.Third_cover{
+    text-align: center;
+}
+.Fourth_cover{
+    text-align: center;
+}
+.Full_album_cover{
+    text-align: center;
+}
+label{
+    color: white;
+    background-color: black;
+    display: inline-block;
+}
+input{
+    background-color: black;
+    color: white;
+}
