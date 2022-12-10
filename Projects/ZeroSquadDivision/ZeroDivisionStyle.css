@@ -1,0 +1,40 @@
+.Header{
+    color: white;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+}
+.Header_inner{
+    display: inline-block;
+}
+.Zero_division_leader{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.Zero_leader_inner{
+    display: inline-block;
+}
+.ZD_First_Officer{
+    text-align: center;
+    color: white;
+    background-color: black; 
+}
+.Zero_first_inner{
+    display: inline-block;
+}
+.ZD_Second_Officer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.ZD_Third_Officer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}   
+.ZD_Fourth_Officer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}   
