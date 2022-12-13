@@ -3,8 +3,10 @@
     color: white;
     background-color: black;
     display: block;
+}
+body{
     background-image: url("Cover\ Photo\ Stern\ Ritter.jpg");
-    background-attachment: fixed;
     background-size: 100%;
+    background-attachment: fixed;
     background-repeat: no-repeat;
 }
