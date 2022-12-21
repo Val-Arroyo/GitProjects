@@ -1,6 +1,6 @@
 body{
     background-image: url("Cover\ Photo\ Gotei\ 13.jpg");
-    background-attachment: ;
+    background-attachment: fixed;
 }
 .Header{
     text-align: center;
