@@ -24,6 +24,11 @@ h3{
     text-align: center;
     color: white;
 }
+.Gotei_information{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
 .First_division_captain{
     text-align: center;
     background-color: #301934;
