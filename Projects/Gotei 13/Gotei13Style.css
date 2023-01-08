@@ -39,69 +39,116 @@ h3{
 }
 .First_division_captain{
     text-align: center;
+}
+.First_color{
     background-color: #301934;
     color: white;
-}  
+    display: inline-block;
+}
 .Second_division_captain{
     text-align: center;
+}
+.Second_color{
     background-color: darkorange;
     color: white;
+    display: inline-block;
 }
 .Third_division_captain{
     text-align: center;
-    background-color: springgreen;
+}
+.Third_color{
+     background-color: springgreen;
     color: white;
+    display: inline-block;
 }
 .Fourth_division_captain{
     text-align: center;
+}
+.Fourth_color{
     background-color: #A95C68;
     color: white;
+    display: inline-block;
 }
 .Fifth_division_captain{
     text-align: center;
+}
+.Fifth_color{
     background-color: paleturquoise;
     color: white;
+    display: inline-block;
 }
 .Sixth_division_captain{
     text-align: center;
+}
+.Sixth_color{
     background-color: #0047AB;
     color: white;
+    display: inline-block;
 }
 .Seventh_division_captain{
     text-align: center;
+}
+.Seventh_color{
     background-color: #988558;
     color: white;
+    display: inline-block;
 }
 .Eight_division_captain{
     text-align: center;
+}
+.Eight_color{
     background-color:  #b3446c;
     color: white;
-}   
+    display: inline-block;
+}  
 .Ninth_division_captain{
     text-align: center;
+}
+.Ninth_color{
     background-color: #CD5700;
     color: white;
+    display: inline-block;
 }
 .Tenth_division_captain{
     text-align: center;
+}
+.Tenth_color{
     background-color: darkgreen;
     color: white;
+    display: inline-block;
 }
 .Eleventh_division_captain{
     text-align: center;
+}
+.Eleventh_color{
     background-color: lavender;
     color: white;
+    display: inline-block;
 }
 .Twelfth_division_captain{
     text-align: center;
+}
+.Twelfth_color{
     background-color: #808000;
     color: white;
+    display: inline-block;
 }
 .Thirteenth_division_captain{
     text-align: center;
+}
+.Thirteenth_color{
     background-color: maroon;
     color: white;
+    display: inline-block;
 }
 .Captain_selection{
+    text-align: center;
+}
+.Captain_list{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+.Flower_selection{
     text-align: center;
 }
