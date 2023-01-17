@@ -37,6 +37,9 @@ h3{
     background-color: black;
     display: inline-block;
 }
+/*
+    First Captain Details
+*/
 .First_division_captain{
     text-align: center;
 }
@@ -50,6 +53,9 @@ h3{
     color: white;
     display: inline-block;
 }
+/*
+    Second Captain Details
+*/
 .Second_division_captain{
     text-align: center;
 }
@@ -63,6 +69,9 @@ h3{
     color: white;
     display: inline-block;
 }
+/*
+    Third Captain Details
+*/
 .Third_division_captain{
     text-align: center;
 }
@@ -123,6 +132,11 @@ h3{
     color: white;
     display: inline-block;
 }
+.Seventh_information{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
 .Eight_division_captain{
     text-align: center;
 }
@@ -130,12 +144,22 @@ h3{
     background-color:  #b3446c;
     color: white;
     display: inline-block;
-}  
+}
+.Eighth_information{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
 .Ninth_division_captain{
     text-align: center;
 }
 .Ninth_color{
     background-color: #CD5700;
+    color: white;
+    display: inline-block;
+}
+.Ninth_information{
+    background-color: black;
     color: white;
     display: inline-block;
 }
@@ -147,11 +171,22 @@ h3{
     color: white;
     display: inline-block;
 }
+.Tenth_information{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+
 .Eleventh_division_captain{
     text-align: center;
 }
 .Eleventh_color{
     background-color: lavender;
+    color: white;
+    display: inline-block;
+}
+.Eleventh_information{
+    background-color: black;
     color: white;
     display: inline-block;
 }
@@ -163,11 +198,21 @@ h3{
     color: white;
     display: inline-block;
 }
+.Twelfth_information{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
 .Thirteenth_division_captain{
     text-align: center;
 }
 .Thirteenth_color{
     background-color: maroon;
+    color: white;
+    display: inline-block;
+}
+.Thirteenth_information{
+    background-color: black;
     color: white;
     display: inline-block;
 }
