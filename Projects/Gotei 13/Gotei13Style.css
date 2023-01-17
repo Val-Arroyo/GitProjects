@@ -166,7 +166,7 @@ h3{
     display: inline-block;
 }
 /*
-    Ninth Captain Information
+    Ninth Captain Details
 */
 .Ninth_division_captain{
     text-align: center;
@@ -181,6 +181,9 @@ h3{
     color: white;
     display: inline-block;
 }
+/*
+    Tenth Captain Details
+*/
 .Tenth_division_captain{
     text-align: center;
 }
