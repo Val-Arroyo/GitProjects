@@ -45,11 +45,21 @@ h3{
     color: white;
     display: inline-block;
 }
+.First_information{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
 .Second_division_captain{
     text-align: center;
 }
 .Second_color{
     background-color: darkorange;
+    color: white;
+    display: inline-block;
+}
+.Second_information{
+    background-color: black;
     color: white;
     display: inline-block;
 }
@@ -61,11 +71,21 @@ h3{
     color: white;
     display: inline-block;
 }
+.Third_information{
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
 .Fourth_division_captain{
     text-align: center;
 }
 .Fourth_color{
     background-color: #A95C68;
+    color: white;
+    display: inline-block;
+}
+.Fourth_information{
+    background-color: black;
     color: white;
     display: inline-block;
 }
