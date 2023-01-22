@@ -267,6 +267,7 @@ h3{
 .Shikai_selection{
     color: black;
     background-color: white;
+    display: inline-block;
 }
 .Bankai_preference{
     text-align: center;
