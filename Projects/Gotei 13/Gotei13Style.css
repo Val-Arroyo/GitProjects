@@ -297,4 +297,5 @@ h3{
 .DropDown_Header_3{
     color: white;
     background-color: black;
+    display: inline-block;
 }
