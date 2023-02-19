@@ -293,11 +293,13 @@ h3{
     background-color: white;
     display: inline-block;
 }
-
+/*
+    Drop Down Styling
+    CSS for multiple selection
+*/
 .Bankai_DropDown{
     text-align: center;
 }
-
 .DropDown_Header_3{
     color: black;
     background-color: white;
