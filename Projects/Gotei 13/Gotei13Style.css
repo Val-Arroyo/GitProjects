@@ -19,6 +19,7 @@ h3{
     color-interpolation-filters: auto;
     color: white;
     background-color: black;
+    display: inline-block;
 }
 .Gotei_history{
     text-align: center;
