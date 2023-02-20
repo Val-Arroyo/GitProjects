@@ -19,7 +19,6 @@ h3{
     color-interpolation-filters: auto;
     color: white;
     background-color: black;
-    font-display: inherit;
 }
 .Heading{
     display: inline-block;
@@ -33,6 +32,9 @@ h3{
     background-color: black;
     color: white;
     display: inline-block;
+}
+.First_flower{
+    
 }
 .Flower{
     text-align: center;
