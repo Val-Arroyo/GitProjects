@@ -19,6 +19,7 @@ h3{
     color-interpolation-filters: auto;
     color: white;
     background-color: black;
+    font-display: inherit;
 }
 .Heading{
     display: inline-block;
