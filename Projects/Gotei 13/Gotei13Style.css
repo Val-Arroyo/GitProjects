@@ -23,6 +23,7 @@ h3{
 }
 .Heading{
     display: inline-block;
+    text-align: center;
 }
 .Gotei_history{
     text-align: center;
