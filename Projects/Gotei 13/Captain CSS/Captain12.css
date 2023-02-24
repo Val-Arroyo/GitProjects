@@ -4,3 +4,11 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+header{
+    text-align: center;
+}
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
