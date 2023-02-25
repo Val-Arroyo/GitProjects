@@ -4,11 +4,27 @@ body{
     background-repeat: no-repeat;
     background-size: 100%;
 }
-header{
+
+.Heading{
+    background-color: white;
+    color: black;
     text-align: center;
 }
-h1{
-    background-color: black;
-    color: white;
-    text-align: center;
+
+.Main_page{
+    background-color: white;
+    color: black;
+}
+
+.Information{
+    background-color: white;
+    color: black;
+    text-align: center; 
+}
+
+.Title_captain{
+    background-color: white;
+    color: black;
+    text-align: center; 
+    display: inline-block;
 }
