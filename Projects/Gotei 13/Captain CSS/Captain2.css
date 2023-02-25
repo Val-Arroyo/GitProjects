@@ -25,3 +25,17 @@ body{
 .Image{
     text-align: center;
 }
+.Details{
+    text-align: center;
+    display: block;
+}
+.Title{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.Paragraph{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
