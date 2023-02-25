@@ -4,3 +4,21 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+.Heading{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+.Main_page{
+    background-color: white;
+    color: black;
+}
+.Information{
+    text-align: center;
+}
+.Title_captain{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
