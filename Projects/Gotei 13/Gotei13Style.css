@@ -41,6 +41,54 @@ h3{
     background-color: #301934;
     color: white;
 }
+.Second_Captain_Color{
+    background-color: darkorange;
+    color: white;
+}
+.Third_Captain_Color{
+    background-color: springgreen;
+    color: white;
+}
+.Fourth_Captain_Color{
+    background-color: #A95C68;
+    color: white;
+}
+.Fifth_Captain_Color{
+    background-color: paleturquoise;
+    color: white;
+}
+.Sixth_Captain_Color{
+    background-color: #0047AB;
+    color: white;
+}
+.Seventh_Captain_Color{
+    background-color: #988558;
+    color: white;
+}
+.Eighth_Captain_Color{
+    background-color:  #b3446c;
+    color: white;
+}
+.Ninth_Captain_Color{
+    background-color: #CD5700;
+    color: white;
+}
+.Tenth_Captain_Color{
+    background-color: darkgreen;
+    color: white;
+}
+.Eleventh_Captain_Color{
+    background-color: lavender;
+    color: white;
+}
+.Twelfth_Captain_Color{
+    background-color: #808000;
+    color: white;
+}
+.Thirteenth_Captain_Color{
+    background-color: maroon;
+    color: white;
+}
 .Flower{
     text-align: center;
 }
@@ -88,7 +136,7 @@ h3{
     text-align: center;
 }
 .Third_color{
-     background-color: springgreen;
+    background-color: springgreen;
     color: white;
     display: inline-block;
 }
