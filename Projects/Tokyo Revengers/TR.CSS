@@ -3,12 +3,31 @@
     color: white;
     text-align: center;
 }
-.Toman{
+.Center{
     text-align: center;
-    display: inline-block;
+}
+
+.Gang-Container{
+    border: 10px solid black;
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center; 
+}
+.Toman{
     background-color: black;
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 1rem 1rem;
+    border: 5px solid yellow;
 }
 .Black_Dragon{
-    text-align: center;
+    background-color: black;
+    color: white;
     display: inline-block;
+    vertical-align: middle;
+    padding: 1rem 1rem;
+    border: 5px solid red;
 }
+
+
