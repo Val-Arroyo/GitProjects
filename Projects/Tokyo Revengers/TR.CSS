@@ -43,5 +43,8 @@
 }
 
 .Moebius{
-    
+    background-color: black;
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
 }
