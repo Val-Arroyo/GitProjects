@@ -1,19 +1,21 @@
-.Header{
+.Header {
     background-color: black;
     color: white;
     text-align: center;
 }
-.Center{
+
+.Center {
     text-align: center;
 }
 
-.Gang-Container{
+.Gang-Container {
     border: 10px solid black;
     margin: 1rem;
     padding: 2rem 2rem;
-    text-align: center; 
+    text-align: center;
 }
-.Toman{
+
+.Toman {
     background-color: black;
     color: white;
     display: inline-block;
@@ -21,7 +23,8 @@
     padding: 1rem 1rem;
     border: 5px solid yellow;
 }
-.Black_Dragon{
+
+.Black_Dragon {
     background-color: black;
     color: white;
     display: inline-block;
@@ -29,5 +32,3 @@
     padding: 1rem 1rem;
     border: 5px solid red;
 }
-
-
