@@ -36,9 +36,12 @@
 .Valhalla{
     background-color: black;
     color: white;
-    
+    display: inline-block;
+    vertical-align: middle;
+    padding: 1rem 1rem;
+    border: 5px solid white;
 }
 
 .Moebius{
-
+    
 }
