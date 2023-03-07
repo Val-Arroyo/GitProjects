@@ -21,7 +21,6 @@
     display: inline-block;
     vertical-align: middle;
     padding: 1rem 1rem;
-    border-color: red ;
     border: 5px solid yellow;
     border-radius: 50px 50px;
 }
