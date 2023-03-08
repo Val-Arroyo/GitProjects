@@ -37,7 +37,7 @@
     vertical-align: middle;
     padding: 1rem 1rem;
     border: 5px solid red;
-    border-radius: 0 5px 0px;
+    border-radius: 0 5px 0 5px;
     box-shadow: 50px 50px inset red;
 }
 
