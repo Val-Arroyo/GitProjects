@@ -13,6 +13,7 @@
     margin: 1rem;
     padding: 2rem 2rem;
     text-align: center;
+    box-shadow: 5px 5px red;
 }
 
 #color{
@@ -25,8 +26,7 @@
     vertical-align: middle;
     padding: 1rem 1rem;
     border: 5px solid yellow;
-    border-radius: 50px 50px;
-    box-shadow: 50 50 solid red;
+    border-radius: 0 50% 0 50%;
 }
 
 .Black_Dragon {
@@ -36,7 +36,7 @@
     vertical-align: middle;
     padding: 1rem 1rem;
     border: 5px solid red;
-    border-radius: 50px 50px;
+    border-radius: 50% 0 50% 0;
 }
 
 .Valhalla {
