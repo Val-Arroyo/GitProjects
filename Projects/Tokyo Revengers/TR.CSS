@@ -38,7 +38,7 @@
     padding: 1rem 1rem;
     border: 5px solid red;
     border-radius: 0 50px 0 50px;
-    box-shadow: 50px 50px inset red;
+    box-shadow: 5px 5px inset red;
 }
 
 .Valhalla {
