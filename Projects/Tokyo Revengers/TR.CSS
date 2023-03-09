@@ -16,9 +16,10 @@
     box-shadow: 5px 5px red;
 }
 
-#color{
+#color {
     color: white;
 }
+
 .Toman {
     background-color: black;
     color: white;
@@ -27,7 +28,7 @@
     padding: 1rem 1rem;
     border: 5px solid yellow;
     border-radius: 0 50% 0 50%;
-    box-shadow: 20px 20px inset red;
+    box-shadow: 15px 15px inset red;
 }
 
 .Black_Dragon {
@@ -38,7 +39,7 @@
     padding: 1rem 1rem;
     border: 5px solid red;
     border-radius: 0 50% 0 50%;
-    box-shadow: 20px 20px inset purple;
+    box-shadow: 15px 15px inset purple;
 }
 
 .Valhalla {
@@ -49,9 +50,8 @@
     padding: 1rem 1rem;
     border: 5px solid blue;
     border-radius: 0 50% 0 50%;
-    box-shadow: 20px 20px inset white;
+    box-shadow: 15px 15px inset white;
 }
-
 .Moebius {
     background-color: black;
     color: white;
@@ -60,5 +60,5 @@
     padding: 1rem 1rem;
     border: 5px solid purple;
     border-radius: 0 50% 0 50%;
-    box-shadow: 20px 20px inset green;
+    box-shadow: 15px 15px inset green;
 }
