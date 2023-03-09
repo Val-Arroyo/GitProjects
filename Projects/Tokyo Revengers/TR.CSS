@@ -48,7 +48,7 @@
     vertical-align: middle;
     padding: 1rem 1rem;
     border: 5px solid blue;
-    border-radius: 0 50%;
+    border-radius: 0 50% 0;
 }
 
 .Moebius {
