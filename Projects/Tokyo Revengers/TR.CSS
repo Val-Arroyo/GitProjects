@@ -35,9 +35,6 @@ body{
     border: 5px solid yellow;
     border-radius: 0 50% 0 50%;
     box-shadow: 15px 15px inset red;
-    background-image: url("./Images/Tokyo\ Revengers.jpg");
-    background-size: auto;
-    background-repeat: no-repeat;
 }
 
 .Black_Dragon {
