@@ -1,6 +1,6 @@
 body{
     background-image: url("./Images/Tokyo\ Revengers.jpg");
-    
+    background-position: fixed;
 }
 .Header {
     background-color: black;
