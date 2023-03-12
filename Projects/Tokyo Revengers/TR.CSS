@@ -14,7 +14,9 @@ body{
     top: 0;
     left: 1017px;
     background-color: black;
+    margin: 10px;
 }
+
 .Header {
     background-color: black;
     color: white;
