@@ -30,10 +30,6 @@ body{
     box-shadow: 5px 5px red;
 }
 
-#color {
-    color: white;
-}
-
 .Toman {
     background-color: black;
     color: white;
@@ -67,6 +63,10 @@ body{
     box-shadow: 15px 15px inset white;
 }
 
+.Valhalla:hover{
+    background-color: white;
+}
+
 .Moebius {
     background-color: black;
     color: white;
@@ -76,4 +76,17 @@ body{
     border: 5px solid purple;
     border-radius: 0 50% 0 50%;
     box-shadow: 15px 15px inset green;
+}
+
+.Moebius:hover{
+    background-color: white;
+    color: black;
+}
+a{
+    color: white;
+}
+
+a:hover{
+    background-color: red;
+    color: blue;
 }
