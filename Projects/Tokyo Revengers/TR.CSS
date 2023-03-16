@@ -62,11 +62,6 @@ body{
     border-radius: 0 50% 0 50%;
     box-shadow: 15px 15px inset white;
 }
-
-.Valhalla:hover{
-    background-color: white;
-}
-
 .Moebius {
     background-color: black;
     color: white;
