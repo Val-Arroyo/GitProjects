@@ -1,7 +1,7 @@
 .Onepiece_MAIN{
     text-align: center;
     color: red;
-    background-color:white;
+    background-color overscroll-behavior-block: ;
     display: block;
 }
 
