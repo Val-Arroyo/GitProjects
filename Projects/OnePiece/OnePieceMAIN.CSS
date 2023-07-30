@@ -5,13 +5,12 @@ h1{
     text-align: center;
 }
 h2{
-    text-align: center;
-    display: inline-block;
+    color: red;
+    background-color: black;
 }
 .Straw_Hat_Pirates{
     text-align: center;
-    color: black;
-    background-color: red;
+    display: inline-block
 }
 .Beast_Pirates{
     text-align: center;
