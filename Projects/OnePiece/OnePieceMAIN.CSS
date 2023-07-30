@@ -4,13 +4,10 @@ h1{
     background-color: black;
     text-align: center;
 }
-h2{
-    color: red;
-    background-color: black;
-}
+
 .Straw_Hat_Pirates{
     text-align: center;
-    display: inline-block
+    display: inline-block;
 }
 .Beast_Pirates{
     text-align: center;
