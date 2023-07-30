@@ -1,11 +1,8 @@
 .Onepiece_MAIN{
-    text-align: center;
-    color: white;
-    background-color: black;
-    display: block;
 }
 Header{
     display: block;
+    color: red;
 }
 .Straw_Hat_Pirates{
     text-align: center;
