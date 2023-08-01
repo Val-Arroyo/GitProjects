@@ -1,4 +1,4 @@
-print("Software Architect");
+print("Software Architect\n");
 print("Business Analyst\n");
 print("Data Analyst\n");
 print("Software Developer\n");
