@@ -4,4 +4,5 @@ RedHaired_Captain = "Shanks";
 WhiteBeard_Captain = "Edward Newgate";
 BigMOM_Captain = "Charlotte Linlin";
 
+
 print(Straw_Hat_Captain);
