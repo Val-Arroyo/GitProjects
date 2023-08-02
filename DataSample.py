@@ -1,1 +1,1 @@
-Straw_Hat_Captain
+Straw_Hat_Captain = "Monkey D. Luffy";
