@@ -7,3 +7,4 @@ Beast_Captain = "Kaido";
 
 print(Straw_Hat_Captain);
 print(BlackBeard_Captain);
+print(RedHaired_Captain);
