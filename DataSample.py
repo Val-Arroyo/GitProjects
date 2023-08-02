@@ -6,4 +6,4 @@ BigMOM_Captain = "Charlotte Linlin";
 Beast_Captain = "Kaido";
 
 print(Straw_Hat_Captain);
-print
+print(BlackBeard_Captain)
