@@ -19,5 +19,5 @@ BlackBeard_Crew = [];
 RedHaired_Crew = [];
 WhiteBeard_Crew = [];
 BigMOM_Crew = [];
-Beast_Crew
+Beast_Crew = []
 
