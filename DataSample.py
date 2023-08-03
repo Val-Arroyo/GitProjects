@@ -23,7 +23,7 @@ BigMOM_Crew = [];
 Beast_Crew = [];
 
 #Print Crew Variables
-print();
+print(Straw_Hat_Crew);
 print();
 print();
 print();
