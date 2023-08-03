@@ -26,5 +26,5 @@ Beast_Crew = [];
 print(Straw_Hat_Crew);
 print(BlackBeard_Crew);
 print(RedHaired_Crew);
-print();
+print(WhiteBeard_Crew);
 print();
