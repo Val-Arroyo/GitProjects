@@ -21,5 +21,5 @@ WhiteBeard_Crew = [];
 BigMOM_Crew = [];
 Beast_Crew = [];
 
-print()
+print();
 
