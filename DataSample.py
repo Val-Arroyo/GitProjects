@@ -22,6 +22,7 @@ WhiteBeard_Crew = [];
 BigMOM_Crew = [];
 Beast_Crew = [];
 
+#Print Crew Variables
 print();
 print();
 print();
