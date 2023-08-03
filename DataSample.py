@@ -18,9 +18,9 @@ print(Beast_Captain);
 Straw_Hat_Crew = ["Zoro", "Sanji", "Nami", "Robin", "Franky", "Chopper", "Usopp", "Jimbei", "Yamato"];
 BlackBeard_Crew = [];
 RedHaired_Crew = [];
-WhiteBeard_Crew = [];
-BigMOM_Crew = [];
-Beast_Crew = [];
+WhiteBeard_Crew = ["Marco", "Ace", "Jozu"];
+BigMOM_Crew = ["Peros Pero"];
+Beast_Crew = ["King", "Queen"];
 
 #Print Crew Variables
 print(Straw_Hat_Crew);
