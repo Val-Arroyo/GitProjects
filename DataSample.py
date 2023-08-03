@@ -14,3 +14,7 @@ print(WhiteBeard_Captain);
 print(BigMOM_Captain);
 print(Beast_Captain);
 
+Straw_Hat_Crew = [];
+BlackBeard_Crew = [];
+
+
