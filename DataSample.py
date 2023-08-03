@@ -25,6 +25,6 @@ Beast_Crew = [];
 #Print Crew Variables
 print(Straw_Hat_Crew);
 print(BlackBeard_Crew);
-print();
+print(RedHaired_Crew);
 print();
 print();
