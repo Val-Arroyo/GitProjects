@@ -15,7 +15,7 @@ print(BigMOM_Captain);
 print(Beast_Captain);
 
 #Crew Variables
-Straw_Hat_Crew = [];
+Straw_Hat_Crew = ["Zoro", "Sanji"];
 BlackBeard_Crew = [];
 RedHaired_Crew = [];
 WhiteBeard_Crew = [];
