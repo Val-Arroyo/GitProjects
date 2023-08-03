@@ -18,5 +18,5 @@ Straw_Hat_Crew = [];
 BlackBeard_Crew = [];
 RedHaired_Crew = [];
 WhiteBeard_Crew = [];
-BigMOM_
+BigMOM_Crew
 
