@@ -14,6 +14,7 @@ print(WhiteBeard_Captain);
 print(BigMOM_Captain);
 print(Beast_Captain);
 
+#Crew Variables
 Straw_Hat_Crew = [];
 BlackBeard_Crew = [];
 RedHaired_Crew = [];
