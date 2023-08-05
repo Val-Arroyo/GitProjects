@@ -36,3 +36,5 @@ def onepiece():
 firstname = input("Enter your first name:");
 middlename = input("Enter your middle name");
 lastname = input("Enter your last time:");
+
+print(firstname + middlename + lastname);
