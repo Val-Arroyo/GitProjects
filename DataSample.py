@@ -27,11 +27,11 @@ def onepiece():
     Beast_Crew = ["King", "Queen"]
 
 #Print Crew Variables
-print(Straw_Hat_Crew)
-print(BlackBeard_Crew)
-print(RedHaired_Crew)
-print(WhiteBeard_Crew)
-print(BigMOM_Crew)
-print(Beast_Crew)
+    print(Straw_Hat_Crew)
+    print(BlackBeard_Crew)
+    print(RedHaired_Crew)
+    print(WhiteBeard_Crew)
+    print(BigMOM_Crew)
+    print(Beast_Crew)
 
 name = input();
