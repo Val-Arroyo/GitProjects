@@ -38,3 +38,4 @@ print(firstname);
 middlename = input("Enter your middle name");
 print(middlename);
 lastname = input("Enter your last time:");
+print(lastname);
