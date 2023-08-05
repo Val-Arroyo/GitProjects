@@ -34,7 +34,7 @@ def onepiece():
     print(Beast_Crew)
 
 firstname = input("Enter your first name:");
-middlename = input("Enter your middle name");
+middlename = input("Enter your middle name:");
 lastname = input("Enter your last time:");
 
 print("Your full name  is: " + firstname + middlename + lastname);
