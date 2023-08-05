@@ -18,8 +18,7 @@ def onepiece():
     print(Beast_Captain)
 
 #Crew Variables
-    Straw_Hat_Crew = ["Zoro", "Sanji", "Nami", "Robin",
-                  "Franky", "Chopper", "Usopp", "Jimbei", "Yamato"]
+    Straw_Hat_Crew = ["Zoro", "Sanji", "Nami", "Robin","Franky", "Chopper", "Usopp", "Jimbei", "Yamato"]
     BlackBeard_Crew = []
     RedHaired_Crew = []
     WhiteBeard_Crew = ["Marco", "Ace", "Jozu"]
