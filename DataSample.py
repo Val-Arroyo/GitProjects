@@ -30,4 +30,4 @@ print(WhiteBeard_Crew);
 print(BigMOM_Crew);
 print(Beast_Crew);
 
-name = input()
+name = input();
