@@ -33,7 +33,7 @@ def onepiece():
     print(BigMOM_Crew)
     print(Beast_Crew)
 
-firstname = input("Enter your first name:");
+firstname = input("Enter your first name: ");
 middlename = input("Enter your middle name: ");
 lastname = input("Enter your last time: ");
 
