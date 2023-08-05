@@ -34,3 +34,4 @@ def onepiece():
     print(Beast_Crew)
 
 firstname = input("Enter your first name:");
+print(firstname);
