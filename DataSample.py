@@ -42,7 +42,7 @@ print("Your full name  is: ", firstname, middlename , lastname);
 print("Your age is" , age);
 
 if(age >= 18):
-    print();
+    print("");
     print("Enter the night club");
     print("");
 else:
