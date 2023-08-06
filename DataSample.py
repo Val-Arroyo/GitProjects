@@ -42,6 +42,6 @@ print("Your full name  is: ", firstname, middlename , lastname);
 
 if(age >= 18):
     print("Enter the night club");
-    print()
+    print("")
 else:
     print("You are not old enough to enter");
