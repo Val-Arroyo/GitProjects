@@ -48,4 +48,4 @@ if(age >= 18):
 else:
     print("You are not above 18 yet")
     print("You may not enter");
-    print("")l
+    print("");
