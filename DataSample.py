@@ -40,6 +40,7 @@ age = int(input("Enter your age: "));
 
 print("Your full name  is: ", firstname, middlename , lastname);
 
+
 if(age >= 18):
     print("Enter the night club");
     print("");
