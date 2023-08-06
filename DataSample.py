@@ -39,7 +39,7 @@ lastname = input("Enter your last time: ");
 age = int(input("Enter your age: "));
 
 print("Your full name  is: ", firstname, middlename , lastname);
-print();
+print("");
 
 if(age >= 18):
     print("Enter the night club");
