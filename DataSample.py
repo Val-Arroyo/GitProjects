@@ -44,6 +44,6 @@ print("Your age is" , age);
 if(age >= 18):
     print("Since you are above 18");
     print("Enter the night club");
-    print("");
+    print("Enjoy ");
 else:
     print("You are not old enough to enter");
