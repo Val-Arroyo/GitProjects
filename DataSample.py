@@ -38,6 +38,7 @@ middlename = input("Enter your middle name: ");
 lastname = input("Enter your last time: ");
 age = int(input("Enter your age: "));
 
+print("/n");
 print("Your full name  is: ", firstname, middlename , lastname);
 print("Your age is" , age);
 
