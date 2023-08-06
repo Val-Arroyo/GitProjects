@@ -46,4 +46,5 @@ if(age >= 18):
     print("Enter the night club");
     print("Enjoy your time");
 else:
+    
     print("You are not old enough to enter");
