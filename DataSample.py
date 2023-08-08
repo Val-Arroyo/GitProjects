@@ -1,5 +1,5 @@
 import math
 
-print (math.pow(64,4));
+print (math.sqrt(64));
 
 
