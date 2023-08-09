@@ -1,19 +1,20 @@
 import matplotlib.pyplot as plt
 
-x = [1,2,3]
-# corresponding y axis values
-y = [2,4,1]
+activities = ['Eat', 'Sleep', 'Work', 'Play']
   
-# plotting the points 
-plt.plot(x, y)
+# portion covered by each label
+slices = [3, 7, 8, 6]
   
-# naming the x axis
-plt.xlabel('x - axis')
-# naming the y axis
-plt.ylabel('y - axis')
+# color for each label
+colors = ['r', 'y', 'g', 'b']
   
-# giving a title to my graph
-plt.title('My first graph!')
+# plotting the pie chart
+plt.pie(slices, labels = activities, colors=colors, 
+        startangle=90, shadow = True, explode = (0, 0, 0.1, 0),
+        radius = 1.2, autopct = '%1.1f%%')
   
-# function to show the plot
+# plotting legend
+plt.legend()
+  
+# showing the plot
 plt.show()
