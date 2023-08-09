@@ -1,4 +1,4 @@
 import math
 
 print (math.sqrt(64));
-print (math)
+print (math.factorial(23))
