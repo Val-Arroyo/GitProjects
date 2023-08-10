@@ -20,5 +20,6 @@ plt.title("INCOME");
 #plot 3:
 
 x = np.array([]);
+y = np.array([]);
 
 plt.show();
