@@ -22,4 +22,6 @@ plt.title("INCOME");
 x = np.array([]);
 y = np.array([]);
 
+plt.subplot(1, 2, 3);
+
 plt.show();
