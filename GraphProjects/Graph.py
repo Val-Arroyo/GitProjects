@@ -19,4 +19,6 @@ plt.title("INCOME");
 
 #plot 3:
 
+x = np.array([]);
+
 plt.show();
