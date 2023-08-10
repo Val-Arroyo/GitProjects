@@ -23,5 +23,7 @@ x = np.array([]);
 y = np.array([]);
 
 plt.subplot(1, 2, 3);
+plt.plot(x, y, color = 'black', marker = 'o');
+plt.title("Investments");
 
 plt.show();
