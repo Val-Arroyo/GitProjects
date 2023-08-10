@@ -11,7 +11,7 @@ plt.title("SALES")
 
 #plot 2:
 x = np.array([0, 1, 2, 3, 4, 5])
-y = np.array([10, 20, 30, 40, 50, 60, 70,])
+y = np.array([10, 20, 30, 40, 50, 60, 70, 80])
 
 plt.subplot(1, 2, 2)
 plt.plot(x,y, color = 'blue', marker = "o");
