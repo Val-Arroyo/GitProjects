@@ -19,7 +19,7 @@ plt.title("INCOME");
 
 #plot 3:
 
-x = np.array([0 , 1, 2]);
+x = np.array([0 , 1, 2, 3]);
 y = np.array([]);
 
 plt.subplot(1, 2, 3);
