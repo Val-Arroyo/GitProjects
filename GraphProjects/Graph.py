@@ -1,20 +1,20 @@
 import matplotlib.pyplot as plt
+import numpy as np
 
-activities = ['Eat', 'Sleep', 'Work', 'Play']
-  
-# portion covered by each label
-slices = [3, 7, 8, 6]
-  
-# color for each label
-colors = ['r', 'y', 'g', 'b']
-  
-# plotting the pie chart
-plt.pie(slices, labels = activities, colors=colors, 
-        startangle=90, shadow = True, explode = (0, 0, 0.1, 0),
-        radius = 1.2, autopct = '%1.1f%%')
-  
-# plotting legend
-plt.legend()
-  
-# showing the plot
+#plot 1:
+x = np.array([0, 1, 2, 3, 4, 5])
+y = np.array([3, 8, 1, 10, 21, 1]);
+
+plt.subplot(1, 2, 1)
+plt.plot(x,y ,color = 'red');
+plt.title("SALES")
+
+#plot 2:
+x = np.array([0, 1, 2, 3, 4, 5])
+y = np.array([10, 20, 30, 40, 50, 60])
+
+plt.subplot(1, 2, 2)
+plt.plot(x,y, color = 'blue');
+plt.title("INCOME");
+
 plt.show()
