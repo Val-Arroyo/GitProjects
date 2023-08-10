@@ -6,7 +6,7 @@ x = np.array([0, 1, 2, 3, 4, 5])
 y = np.array([3, 8, 1, 10, 21, 1]);
 
 plt.subplot(1, 2, 1)
-plt.plot(x,y ,color = 'red', marker = '');
+plt.plot(x,y ,color = 'red', marker = 'o');
 plt.title("SALES")
 
 #plot 2:
