@@ -17,6 +17,6 @@ plt.subplot(1, 2, 2);
 plt.plot(x,y, color = 'blue', marker = "o");
 plt.title("INCOME");
 
-#plot 3;
+#plot 3:
 
 plt.show();
