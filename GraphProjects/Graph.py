@@ -20,7 +20,7 @@ plt.title("INCOME");
 #plot 3:
 
 x = np.array([0, 10, 20, 30, 40]);
-y = np.array([]);
+y = np.array([10000, 20000, 30000, 40000]);
 
 plt.subplot(1, 2, 3);
 plt.plot(x, y, color = 'black', marker = 'o');
