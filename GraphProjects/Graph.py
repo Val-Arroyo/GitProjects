@@ -28,3 +28,4 @@ plt.title("Investments");
 plt.suptitle("MONEY GRAPHS");
 plt.show();
 
+
