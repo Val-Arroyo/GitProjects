@@ -28,7 +28,7 @@ y = np.array([10000, 30000, 50000, 20000, 60000]);
 plt.subplot(1, 3, 3);
 plt.plot(x, y, color = 'black', marker = '*');
 plt.xlabel("Investments return");
-plt.ylabel("");
+plt.ylabel("Yearly income");
 plt.title("Investments");
 
 plt.suptitle("MONEY GRAPHS");
