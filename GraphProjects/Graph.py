@@ -27,7 +27,7 @@ y = np.array([10000, 30000, 50000, 20000, 60000]);
 
 plt.subplot(1, 3, 3);
 plt.plot(x, y, color = 'black', marker = '*');
-plt.xlabel();
+plt.xlabel("Investments return");
 plt.ylabel();
 plt.title("Investments");
 
