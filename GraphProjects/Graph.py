@@ -8,7 +8,6 @@ x = np.array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9]);
 y = np.array([1, 3, 5, 7, 9, 2, 4, 6, 8, 10]);
 
 plt.subplot(1, 3, 1);
-plt.figure(facecolor="red");
 plt.plot(x,y ,color = 'red', marker = '*');
 plt.xlabel("Money Income");
 plt.ylabel("Yearly Income");
