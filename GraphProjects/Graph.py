@@ -17,6 +17,7 @@ y = np.array([10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110])
 
 plt.subplot(1, 3, 2);   
 plt.plot(x,y, color = 'blue', marker = "*");
+plt.xlabel();
 
 plt.title("INCOME");
 
