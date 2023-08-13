@@ -7,6 +7,8 @@ y = np.array([1, 3, 5, 7, 9, 2, 4, 6, 8, 10]);
 
 plt.subplot(1, 3, 1)
 plt.plot(x,y ,color = 'red', marker = '*');
+plt.xlabel("Year");
+plt.ylabel("Money Return");
 plt.title("SALES");
 
 #plot 2:
