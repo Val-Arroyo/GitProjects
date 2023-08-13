@@ -25,7 +25,7 @@ plt.title("INCOME");
 x = np.array([0, 10, 20, 30, 40]);
 y = np.array([10000, 30000, 50000, 20000, 60000]);
 
-plt.subplot(1, 3, 3);
+plt.subplot(1, 3, 4);
 plt.plot(x, y, color = 'black', marker = '*');
 plt.xlabel("Investments return");
 plt.ylabel("Yearly income");
