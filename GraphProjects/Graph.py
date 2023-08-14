@@ -21,7 +21,7 @@ heights = np.random.randint(130, 195, 35)
 
 weights = np.random.randint(30, 160, 35)
 
-fig = plt.figure(figsize=(8,4))
+fig = plt.figure(figsize = (8,4))
 
 #First plot
 ax = fig.add_subplot(121, projection='3d')
