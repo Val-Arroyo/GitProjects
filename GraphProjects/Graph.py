@@ -50,4 +50,3 @@ ax.set_ylabel("Weight (kg)")
 ax.set_zlabel("Age (years)")
 
 plt.show() 
-
