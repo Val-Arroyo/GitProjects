@@ -3,10 +3,10 @@ from  mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 import math
 
-fig = plt.figure(figsize=(4,4))
+fig = plt.figure(figsize=(4,4));
 
-ax = fig.add_subplot(111, projection='3d')
+ax = fig.add_subplot(111, projection='3d');
 
 ax.scatter(2,3,4) # plot the point (2,3,4) on the figure
 
-plt.show()
+plt.show();
