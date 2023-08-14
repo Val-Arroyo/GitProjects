@@ -17,4 +17,12 @@ ax = fig.add_subplot(111, projection='3d');
 
 ax.scatter(xs,ys,zs);
 
+ax.set_title("Atom Velocity Distribution");
+
+ax.set_xlabel("Atomic Mass (dalton)");
+
+ax.set_ylabel("Atomic Radius(PM)");
+
+ax.set_zlabel("Atomic Velocity(x10⁶ m/s)");
+
 plt.show();
