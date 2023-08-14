@@ -10,7 +10,7 @@ xs = np.random.random(100)  * 10 + 20
 
 ys = np.random.random(100) * 5 + 7
 
-zs = np.random.random(100) * 15+50
+zs = np.random.random(100) * 15 +50
 
 #data generation for 2nd plot
 np.random.seed(42)
