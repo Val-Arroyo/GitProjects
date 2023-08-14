@@ -51,4 +51,3 @@ ax.set_zlabel("Age (years)")
 
 plt.show() 
 
-
