@@ -6,7 +6,7 @@ import math
 #data generation for 1st plot
 np.random.seed(42)
 
-xs = np.random.random(100) * 10+20
+xs = np.random.random(100)  * 10 +20
 
 ys = np.random.random(100)*5+7
 
