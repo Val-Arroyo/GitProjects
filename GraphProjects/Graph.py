@@ -17,4 +17,4 @@ ax = fig.add_subplot(111, projection='3d');
 
 ax.scatter(xs,ys,zs);
 
-plt.show()
+plt.show();
