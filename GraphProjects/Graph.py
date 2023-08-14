@@ -5,11 +5,11 @@ import math
 
 np.random.seed(42);
 
-xs = np.random.random(100)*10+20
+xs = np.random.random(100) * 10 + 20
 
-ys = np.random.random(100)*5+7
+ys = np.random.random(100)* 5 + 7
 
-zs = np.random.random(100)*15+50
+zs = np.random.random(100)* 15 + 50
 
 fig = plt.figure();
 
