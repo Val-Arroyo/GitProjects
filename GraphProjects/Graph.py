@@ -3,10 +3,18 @@ from  mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 import math
 
-fig = plt.figure(figsize=(4,4));
+np.random.seed(42)
 
-ax = fig.add_subplot(111, projection='3d');
+xs = np.random.random(100)*10+20
 
-ax.scatter(2,3,4) # plot the point (2,3,4) on the figure
+ys = np.random.random(100)*5+7
 
-plt.show();
+zs = np.random.random(100)*15+50
+
+fig = plt.figure()
+
+ax = fig.add_subplot(111, projection='3d')
+
+ax.scatter(xs,ys,zs)
+
+plt.show()
