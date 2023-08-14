@@ -13,7 +13,7 @@ zs = np.random.random(100)*15+50
 
 fig = plt.figure();
 
-ax = fig.add_subplot(111, projection='3d')
+ax = fig.add_subplot(111, projection='3d');
 
 ax.scatter(xs,ys,zs)
 
