@@ -9,4 +9,4 @@ fig, ax = plt.subplot();
 fruits = ['Apple', 'Blueberry', 'Cherry', 'Orange'];
 counts = ['40', '100', '30', '50'];
 bar_labels = ['red', 'blue', 'red', 'orange'];
-bar_colors = ['tab: red', 'tab: blue', 'tab: red', 'tab: purple']
+bar_colors = ['tab: red', 'tab: blue', 'tab: red', 'tab: orange'];
