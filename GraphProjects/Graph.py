@@ -9,4 +9,5 @@ y = [10, 20, 30, 40];
 plt.plot(x, y);
 
 plt.title("Simple Graph");
+plt.xlabel("x")
 plt.show();
