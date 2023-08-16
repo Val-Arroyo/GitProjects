@@ -8,7 +8,7 @@ australia = [100.6, 158.61, 305.54, 394.96, 724.79];
 new_zealand = [10.5, 25.21, 58.65, 119.27, 274.87];
 
 plt.plot(year, australia, color='red', label='Australia', marker="" );
-plt.plot(year, new_zealand, color='blue', label='New Zealand', marker="D");
+plt.plot(year, new_zealand, color='blue', label='New Zealand', marker="");
 
 
 plt.xlabel("Years");
