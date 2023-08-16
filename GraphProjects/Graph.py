@@ -15,4 +15,4 @@ plt.xlabel("Years");
 plt.ylabel("Power of consumption in kWh");
 
 plt.legend();
-plt.
+plt.show();
