@@ -13,3 +13,5 @@ plt.plot(year, new_zealand, color='blue', label='New Zealand');
 
 plt.xlabel("Years");
 plt.ylabel("Power of consumption in kWh");
+
+plt.legend();
