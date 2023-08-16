@@ -4,9 +4,8 @@ import numpy as np
 import math
 from datetime import datetime
 
-fig, ax = plt.subplot();
+fig = plt.figure();
 
-fruits = ['Apple', 'Blueberry', 'Cherry', 'Orange'];
-counts = ['40', '100', '30', '50'];
-bar_labels = ['red', 'blue', 'red', 'orange'];
-bar_colors = ['tab: red', 'tab: blue', 'tab: red', 'tab: orange'];
+ax = fig.add_axes([0, 0, 1, 1]);
+
+plt.show();
