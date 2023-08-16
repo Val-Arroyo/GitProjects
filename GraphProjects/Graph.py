@@ -4,4 +4,4 @@ import numpy as np
 import math
 
 x = [10, 20, 30, 40];
-y = [10, 20, 30, 40]
+y = [10, 20, 30, 40];
