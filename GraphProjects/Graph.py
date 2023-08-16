@@ -9,5 +9,5 @@ y = [10, 20, 30, 40];
 plt.plot(x, y);
 
 plt.title("Simple Graph");
-plt.xlabel("X-Axis")
+plt.xlabel("X-Axis");
 plt.show();
