@@ -10,5 +10,5 @@ plt.plot(x, y);
 
 plt.title("Simple Graph");
 plt.xlabel("X-Axis");
-plt.ylabel("Y-");
+plt.ylabel("Y-Axis");
 plt.show();
