@@ -3,4 +3,4 @@ import numpy as py
 
 #Variables between anime viewership per year
 
-year = [2000, 2005];
+year = [2000, 2005, 2010];
