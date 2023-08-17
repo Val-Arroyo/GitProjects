@@ -9,3 +9,4 @@ Naruto = [];
 Bleach = [];
 DragonBall = [];
 
+plt.plot();
