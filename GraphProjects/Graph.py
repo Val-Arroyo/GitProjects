@@ -5,7 +5,7 @@ import numpy as py
 
 year = [2000, 2005, 2010, 2015, 2020, 2025];
 One_piece = [10, 20, 30, 40, 50];
-Naruto = [1, 3, 5,];
+Naruto = [1, 3, 5, 7,];
 Bleach = [];
 DragonBall = [];
 
