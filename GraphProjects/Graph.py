@@ -10,3 +10,4 @@ Bleach = [];
 DragonBall = [];
 
 plt.plot();
+plt.plot();
