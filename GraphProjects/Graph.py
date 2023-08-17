@@ -4,7 +4,7 @@ import numpy as py
 #Variables between anime viewership per year
 
 year = [2000, 2005, 2010, 2015, 2020, 2025];
-One_piece = [10, 20,];
+One_piece = [10, 20, 30, ];
 Naruto = [];
 Bleach = [];
 DragonBall = [];
