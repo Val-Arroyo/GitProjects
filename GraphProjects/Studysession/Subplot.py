@@ -20,7 +20,7 @@ ax[0, 1].title.set_text("Double")
 ax[1, 0].title.set_text("Square")
 ax[1, 1].title.set_text("Cube")
 ax[2, 0].title.set_text("Random");
-ax[2, 1].
+ax[2, 1].title
  
 # set spacing
 fig.tight_layout()
