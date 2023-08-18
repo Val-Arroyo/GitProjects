@@ -4,7 +4,7 @@ import numpy as np
 x=np.array([1, 2, 3, 4, 5])
  
 # making subplots
-fig, ax = plt.subplots(3, 3)
+fig, ax = plt.subplots(3, 2)
  
 # set data with subplots and plot
 ax[0, 0].plot(x, x)
