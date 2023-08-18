@@ -12,7 +12,7 @@ ax[0, 1].plot(x, x*2)
 ax[1, 0].plot(x, x*x)
 ax[1, 1].plot(x, x*x*x)
 ax[2, 0].plot(x, x*x*x*x);
-ax[2, 1].plor
+ax[2, 1].plot
  
 # set the title to subplots
 ax[0, 0].title.set_text("Linear")
