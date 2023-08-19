@@ -3,6 +3,6 @@ import numpy as np
 
 ypoints = np.array([3, 8, 1, 10])
 
-plt.plot(ypoints, linewidth = );
+plt.plot(ypoints, linewidth = '6');
 plt.show()
 
