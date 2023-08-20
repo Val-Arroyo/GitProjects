@@ -10,4 +10,6 @@ plt.plot(x, y);
 x = np.array([]);
 y = np.array([]);
 
+plt.subplot();
+
 plt.show();
