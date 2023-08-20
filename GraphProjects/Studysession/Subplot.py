@@ -8,5 +8,6 @@ plt.subplot(1,2, 1);
 plt.plot(x, y);
 
 x = np.array([]);
+y = np.array([]);
 
 plt.show();
