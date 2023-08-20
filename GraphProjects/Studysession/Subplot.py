@@ -11,5 +11,6 @@ x = np.array([]);
 y = np.array([]);
 
 plt.subplot();
+plt.plot();
 
 plt.show();
