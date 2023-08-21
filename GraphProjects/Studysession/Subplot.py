@@ -11,6 +11,6 @@ x = np.array([50, 60, 70, 80, 90, 100]);
 y = np.array([10, 40, 20, 30, 50, 60]);
 
 plt.subplot(1, 2, 2);
-plt.plot(x, y, linestyle="dashed", color=);
+plt.plot(x, y, linestyle="dashed", color="red");
 
 plt.show();
