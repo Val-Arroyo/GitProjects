@@ -13,6 +13,6 @@ y = np.array([10, 40, 20, 30, 50, 60]);
 plt.subplot(1, 2, 2);
 plt.plot(x, y, linestyle="dashed", color="pink", linewidth="3");
 
-plt.title();
+plt.title("Graph Sample");
 
 plt.show();
