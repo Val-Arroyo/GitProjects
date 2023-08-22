@@ -1,4 +1,4 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-year = [2000, 2005,];
+year = [2000, 2005, 2010];
