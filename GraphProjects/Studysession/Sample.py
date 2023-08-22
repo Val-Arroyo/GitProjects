@@ -5,6 +5,6 @@ pie_array = np.array([]);
 anime = ["One Piece", "Naruto", "Bleach","Dragon Ball"];
 myexplode = [];
 
-plt.pie(pie_array, labels=);
+plt.pie(pie_array, labels="ANime");
 
 plt.show();
