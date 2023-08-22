@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-pie_array = np.array([]);
+pie_array = np.array([71]);
 anime = ["One Piece", "Naruto", "Bleach","Dragon Ball"];
 myexplode = [];
 
