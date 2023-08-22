@@ -6,3 +6,5 @@ anime = ["One Piece", "Naruto", "Bleach","Dragon Ball"];
 myexplode = [];
 
 plt.pie(pie_array,);
+
+plt.show();
