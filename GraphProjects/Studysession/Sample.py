@@ -7,3 +7,5 @@ Naruto = [];
 Bleach = [];
 Dragon_Ball = [];
 
+
+plt.plot();
