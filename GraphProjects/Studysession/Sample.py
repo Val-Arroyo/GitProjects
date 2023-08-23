@@ -15,3 +15,5 @@ plt.plot();
 
 plt.xlabel();
 plt.ylabel();
+
+plt
