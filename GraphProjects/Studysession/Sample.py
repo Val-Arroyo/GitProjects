@@ -13,4 +13,4 @@ plt.plot();
 plt.plot();
 plt.plot();
 
-xlabel();
+plt.xlabel();
