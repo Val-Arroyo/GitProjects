@@ -1,2 +1,2 @@
 import matplotlib.pyplot as npl
-import 
+import numpy as np
