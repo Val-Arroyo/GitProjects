@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-years = [];
+years = [1995, 2000];
 One_Piece = [];
 Naruto = [];
 Bleach = [];
