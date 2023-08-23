@@ -9,3 +9,4 @@ Dragon_Ball = [];
 
 
 plt.plot();
+plt.plot();
