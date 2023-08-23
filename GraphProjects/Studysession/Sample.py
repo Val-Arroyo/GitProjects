@@ -16,4 +16,4 @@ plt.plot();
 plt.xlabel();
 plt.ylabel();
 
-plt
+plt.title();
