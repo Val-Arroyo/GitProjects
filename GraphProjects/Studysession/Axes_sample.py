@@ -7,8 +7,8 @@ z = [1000000, 2000000, 3000000, 4000000, 5000000]
 
 fig, ax = plt.subplots(2);
 
-ax[1].plot(x, y);
-ax[2].plot(x, z);
+ax[0].plot(x, y);
+ax[1].plot(x, z);
 
 
 plt.show();
