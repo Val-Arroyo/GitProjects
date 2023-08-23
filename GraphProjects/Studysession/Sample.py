@@ -3,3 +3,4 @@ import numpy as np
 
 years = [];
 One_Piece = [];
+Naruto = [];
