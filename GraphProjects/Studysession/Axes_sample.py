@@ -11,6 +11,6 @@ ax.plot(year, One_piece, marker='o');
 ax.plot(year, Naruto, marker='o');
 
 plt.title("Anime Popularity");
-plt.ylabel("Year")l
+plt.ylabel("Year")
 plt.grid();
 plt.show();
