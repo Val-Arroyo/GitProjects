@@ -6,3 +6,4 @@ One_piece = np.array([]);
 Naruto = np.array([]);
 
 fig, ax = plt.subplot();
+
