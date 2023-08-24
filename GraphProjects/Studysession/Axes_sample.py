@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-year = np.array([1995s]);
+year = np.array([1995, 2000]);
 One_piece = np.array([]);
 Naruto = np.array([]);
 
