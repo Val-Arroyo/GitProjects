@@ -7,7 +7,7 @@ Naruto = np.array([10, 30, 40, 50, 60, 70, 90]);
 
 fig, ax = plt.subplots();
 
-ax.plot(year, One_piece, title=);
+ax.plot(year, One_piece, title='One Piece');
 
 ax.plot(year, Naruto);
 
