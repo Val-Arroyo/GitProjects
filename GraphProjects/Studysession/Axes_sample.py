@@ -9,6 +9,6 @@ fig, ax = plt.subplots();
 
 ax.plot(year, One_piece, title='One Piece');
 
-ax.plot(year, Naruto, );
+ax.plot(year, Naruto, title='');
 
 plt.show();
