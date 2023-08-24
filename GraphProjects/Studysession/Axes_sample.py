@@ -7,5 +7,5 @@ Naruto = np.array([]);
 
 fig, ax = plt.subplots();
 
-ax.plot()
+ax.plot(year, One_piece);
 
