@@ -12,6 +12,6 @@ ax.plot(year, Naruto, marker='o');
 
 plt.title("Anime Popularity Chart");
 plt.ylabel("Year");
-plt.xlabel("Popularity Chart");
+plt.xlabel("Year");
 plt.grid();
 plt.show();
