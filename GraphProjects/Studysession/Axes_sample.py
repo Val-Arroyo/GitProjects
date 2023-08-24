@@ -3,4 +3,4 @@ import numpy as np
 
 year = np.array([]);
 One_piece = np.array([]);
-Naruto = 
+Naruto = np.array([]);
