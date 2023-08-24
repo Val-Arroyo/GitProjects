@@ -10,7 +10,7 @@ fig, ax = plt.subplots();
 ax.plot(year, One_piece, marker='o');
 ax.plot(year, Naruto, marker='o');
 
-plt.title("Anime Popularity");
+plt.title("Anime Popularity Chart");
 plt.ylabel("Year");
 plt.xlabel("Popularity Chart")
 plt.grid();
