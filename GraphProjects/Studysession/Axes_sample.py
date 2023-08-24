@@ -8,7 +8,9 @@ Naruto = np.array([10, 30, 40, 50, 60, 70, 90]);
 fig, ax = plt.subplots();
 
 ax.plot(year, One_piece, marker='o');
-
 ax.plot(year, Naruto, marker='o');
 
+plt.title("Anime Popularity");
+plt.ylabel("Year")l
+plt.grid();
 plt.show();
