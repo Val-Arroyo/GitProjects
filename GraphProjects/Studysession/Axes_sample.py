@@ -10,3 +10,5 @@ fig, ax = plt.subplots();
 ax.plot(year, One_piece);
 ax.plot(year, Naruto);
 
+
+
