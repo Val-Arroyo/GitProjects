@@ -3,7 +3,7 @@ import numpy as np
 
 year = np.array([1995, 2000, 2005, 2010, 2015, 2020, 2025]);
 One_piece = np.array([20, 30, 50, 40, 60, 80, 70]);
-Naruto = np.array([]);
+Naruto = np.array([10, 30,]);
 
 fig, ax = plt.subplots();
 
