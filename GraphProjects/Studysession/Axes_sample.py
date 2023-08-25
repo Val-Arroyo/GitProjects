@@ -9,9 +9,9 @@ DragonBall = np.array([90, 100, 80, 75, 65, 40, 90]);
 
 fig, ax = plt.subplots();
 
-ax.plot(year, One_piece, marker='o', label='One Piece');
-ax.plot(year, Naruto, marker='o', label='Naruto');
-ax.plot(year, Bleach, marker='o', label='Bleach');
+ax.plot(year, One_piece, marker='o', label='One Piece', linewidth=2);
+ax.plot(year, Naruto, marker='o', label='Naruto', linewidth=2);
+ax.plot(year, Bleach, marker='o', label='Bleach', line);
 ax.plot(year, DragonBall, marker='o', label='Dragon Ball');
 
 plt.title("Anime Popularity Chart");
