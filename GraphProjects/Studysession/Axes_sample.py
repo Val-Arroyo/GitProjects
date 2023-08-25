@@ -12,7 +12,7 @@ fig, ax = plt.subplots();
 ax.plot(year, One_piece, marker='o', label='One Piece', linewidth=2);
 ax.plot(year, Naruto, marker='o', label='Naruto', linewidth=2);
 ax.plot(year, Bleach, marker='o', label='Bleach', linewidth=2);
-ax.plot(year, DragonBall, marker='o', label='Dragon Ball');
+ax.plot(year, DragonBall, marker='o', label='Dragon Ball', linewidth=);
 
 plt.title("Anime Popularity Chart");
 plt.ylabel("Popularity Chart");
