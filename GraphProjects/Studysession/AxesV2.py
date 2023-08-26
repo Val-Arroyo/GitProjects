@@ -1,1 +1,1 @@
-import matplolt
+import matplolt.pyplot
