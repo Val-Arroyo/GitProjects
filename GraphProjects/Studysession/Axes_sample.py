@@ -17,6 +17,6 @@ ax.plot(year, DragonBall, marker='o', label='Dragon Ball', linewidth=2);
 plt.title("Anime Popularity Chart");
 plt.ylabel("Popularity Chart");
 plt.xlabel("Years");
-plt.legend(loc='upper right');
+plt.legend(loc='lower right');
 plt.grid();
 plt.show();
