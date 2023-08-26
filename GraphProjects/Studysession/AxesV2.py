@@ -9,5 +9,5 @@ DragonBall = np.array([]);
 
 fig, ax = plt.subplots(2, 2);
 
-
+plt.grid();
 
