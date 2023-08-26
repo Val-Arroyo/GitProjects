@@ -15,7 +15,6 @@ ax.plot(year, Bleach, marker='o', label='Bleach', linewidth=2);
 ax.plot(year, DragonBall, marker='o', label='Dragon Ball', linewidth=2);
 
 
-
 plt.title("Anime Popularity Chart");
 plt.ylabel("Popularity Chart");
 plt.xlabel("Years");
