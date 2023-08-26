@@ -3,4 +3,4 @@ import numpy as np
 
 One_piece = np.array([]);
 Naruto = np.array([]);
-Bleach =
+Bleach = np.array([]);
