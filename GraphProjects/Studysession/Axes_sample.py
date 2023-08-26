@@ -14,8 +14,8 @@ ax.plot(year, Naruto, marker='o', label='Naruto', linewidth=2);
 ax.plot(year, Bleach, marker='o', label='Bleach', linewidth=2);
 ax.plot(year, DragonBall, marker='o', label='Dragon Ball', linewidth=2);
 
-ax.set(xlim=(0, 8), xticks=np.arange(1, 8),
-       ylim=(0, 8), yticks=np.arange(1, 8));
+ax.set(xlim=(0,100), xticks=np.arange(1, 100),
+       ylim=(0, 100), yticks=np.arange(1, 8));
 
 
 plt.title("Anime Popularity Chart");
