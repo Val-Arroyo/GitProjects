@@ -12,6 +12,7 @@ fig, ax = plt.subplots(2, 2);
 
 plt.title();
 plt.xlabel();
+plt.ylabel();
 plt.grid();
 plt.show();
 
