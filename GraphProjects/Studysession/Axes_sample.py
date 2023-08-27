@@ -9,13 +9,14 @@ DragonBall = np.array([90, 100, 80, 75, 65, 40, 90]);
 
 fig, ax = plt.subplots();
 
+
 ax.plot(year, One_piece, marker='o', label='One Piece', linewidth=2);
 ax.plot(year, Naruto, marker='o', label='Naruto', linewidth=2);
 ax.plot(year, Bleach, marker='o', label='Bleach', linewidth=2);
 ax.plot(year, DragonBall, marker='o', label='Dragon Ball', linewidth=2);
 ax.set_facecolor("Violet");
 
-plt.title("Anime Popularity Chart");
+plt.title("Anime Popularity Chart");    
 plt.ylabel("Popularity Chart");
 plt.xlabel("Years");
 plt.legend(loc='lower right', shadow=True, facecolor='white');
