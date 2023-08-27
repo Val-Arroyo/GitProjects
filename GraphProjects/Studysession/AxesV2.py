@@ -7,7 +7,7 @@ Naruto = np.array([10, 30, 40, 50, 60, 70, 90]);
 Bleach = np.array([0, 20, 40, 30, 65, 85, 95,]);
 DragonBall = np.array([90, 100, 80, 75, 65, 40, 90]);
 
-fig, ax = plt.subplots(2, 2);
+fig, ax = plt.subplots(2, 2, sharex=);
 
 ax[0, 0].plot(year, One_piece, color='red', marker="o", linewidth=2);
 ax[0, 1].plot(year, Naruto, color='blue', marker="o", linewidth=2);
