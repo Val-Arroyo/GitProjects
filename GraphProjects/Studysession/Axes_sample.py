@@ -16,7 +16,7 @@ ax.plot(year, DragonBall, marker='o', label='Dragon Ball', linewidth=2);
 ax.set_facecolor("Violet");
 
 plt.title("Anime Popularity Chart");
-plt.figure()
+plt.figure(facecolor=yellow);
 plt.ylabel("Popularity Chart");
 plt.xlabel("Years");
 plt.legend(loc='lower right', shadow=True, facecolor='white');
