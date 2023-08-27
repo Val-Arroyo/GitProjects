@@ -11,7 +11,7 @@ fig, ax = plt.subplots(2, 2);
 
 ax[0, 0].plot(year, One_piece, color='red', marker="o");
 ax[0, 1].plot(year, Naruto, color='blue', marker="o");
-ax[1, 0].plot(year, Bleach, color='green', marker="");
+ax[1, 0].plot(year, Bleach, color='green', marker="o");
 ax[1, 1].plot(year, DragonBall, color='orange');
 
 ax[0, 0].title.set_text("One Piece");
