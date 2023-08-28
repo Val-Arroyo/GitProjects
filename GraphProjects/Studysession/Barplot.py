@@ -14,3 +14,4 @@ plt.xlabel("Courses Offered");
 plt.ylabel("No. of Students Offered");
 plt.title("Student Enrolled In Different Courses");
 
+plt.show();
