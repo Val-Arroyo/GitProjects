@@ -12,4 +12,4 @@ plt.bar(courses, values, color='Maroon', width = 0.4);
 
 plt.xlabel("Courses Offered");
 plt.ylabel("No. of Students Offered");
-plt.title("Student Enrolled ");
+plt.title("Student Enrolled In ");
