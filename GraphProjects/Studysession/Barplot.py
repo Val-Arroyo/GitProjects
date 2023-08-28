@@ -8,4 +8,4 @@ values = list(data.keys());
 
 fig = plt.figure(figsize = (10, 5));
 
-plt.bar(courses, values, color='Maroon', );
+plt.bar(courses, values, color='Maroon', width=);
