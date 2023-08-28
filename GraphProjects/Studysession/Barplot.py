@@ -7,3 +7,4 @@ courses = list(data.keys());
 values = list(data.keys());
 
 fig = plt.figure(figsize = (10, 5));
+
