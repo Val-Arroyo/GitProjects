@@ -8,3 +8,4 @@ values = list(data.keys());
 
 fig = plt.figure(figsize = (10, 5));
 
+plt.bar();
