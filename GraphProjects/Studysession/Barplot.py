@@ -11,5 +11,5 @@ fig = plt.figure(figsize = (10, 5));
 plt.bar(courses, values, color='Maroon', width = 0.4);
 
 plt.xlabel("Courses Offered");
-plt.ylabel();
+plt.ylabel("");
 plt.title();
