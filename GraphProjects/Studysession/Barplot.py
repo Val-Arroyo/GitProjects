@@ -12,6 +12,6 @@ plt.bar(anime, values, color = 'red', width = 0.4);
 
 plt.xlabel("Anime");
 plt.ylabel("Popularity Chart");
-plt.title();
+plt.title(:);
 
 plt.show();
