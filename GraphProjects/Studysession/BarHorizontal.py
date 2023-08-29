@@ -8,3 +8,6 @@ x = [35, 20, 15, 25, 40];
 plt.barh(y, x);
 
 plt.xlabel("Price");
+plt.title("Horizontal Bar Graph");
+
+plt.show();
