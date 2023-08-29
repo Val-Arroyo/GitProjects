@@ -9,3 +9,5 @@ values = list(data.values());
 fig = plt.figure(figsize = (10, 5));
 
 plt.bar(anime, values, color = 'red', width = 0.4);
+
+
