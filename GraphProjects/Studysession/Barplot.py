@@ -12,3 +12,4 @@ plt.bar(anime, values, color = 'red', width = 0.4);
 
 plt.xlabel();
 plt.ylabel();
+plt.title();
