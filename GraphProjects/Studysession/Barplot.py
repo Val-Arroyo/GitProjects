@@ -1,4 +1,4 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-data = np.array['One Piece': 80, 'Naruto': 25, 'Bleach':, ];
+data = np.array['One Piece': 80, 'Naruto': 25, 'Bleach': 20, ];
