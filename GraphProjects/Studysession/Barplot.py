@@ -8,4 +8,4 @@ values = list(data.values());
 
 fig = plt.figure(figsize = (10, 5));
 
-plt.bar(anime, )
+plt.bar(anime, values,)
