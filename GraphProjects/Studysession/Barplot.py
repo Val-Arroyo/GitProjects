@@ -11,7 +11,7 @@ fig = plt.figure(figsize = (10, 5));
 plt.bar(anime, values, color = 'red', width = 0.4);
 
 plt.xlabel("Anime");
-plt.ylabel();
+plt.ylabel("Popularity Chart");
 plt.title();
 
 plt.show();
