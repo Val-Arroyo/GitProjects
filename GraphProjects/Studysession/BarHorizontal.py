@@ -1,13 +1,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-y = ['One', 'Two', 'Three', 'Four', 'Five'];
-x = [15, 25, 45, 10, 50];
+x = ['Java', 'Python', 'C', 'C++', 'Javascript'];
+y1 = [10, 60, 30, 20, 40];
+y2 = [20, 120, 60, 40, 80];
 
-plt.barh(y, x, color = 'Maroon', linewidth = 0.5);
-
-plt.xlabel("Price");
-plt.ylabel("Pen Sold");
-plt.title("Horizontal Bar Graph");
-
+plt.bar(x, y1, color = 'red');
+plt.bar(x, y2, bo);
 plt.show();
