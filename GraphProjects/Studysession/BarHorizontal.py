@@ -8,6 +8,6 @@ plt.barh(y, x, color = 'Maroon', width = 0.4);
 
 plt.xlabel("Price");
 plt.ylabel("Pen Sold");
-plt.title("");
+plt.title("Horizontal Bar Graph");
 
 plt.show();
