@@ -3,4 +3,4 @@ import numpy as np
 
 y = ['One', 'Two', 'Three', 'Four', 'Five'];
 
-x = [];
+x = [15,];
