@@ -1,1 +1,1 @@
-import matplotlib.pyplot as
+import matplotlib.pyplot as plt
