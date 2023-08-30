@@ -8,3 +8,4 @@ plt.barh(y, x, color = 'Maroon', width = 0.4);
 
 plt.xlabel();
 plt.ylabel();
+plt.title();
