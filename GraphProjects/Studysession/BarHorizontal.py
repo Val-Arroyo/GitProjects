@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-y = ['ONe'];
+y = ['One'];
 
 x = [];
