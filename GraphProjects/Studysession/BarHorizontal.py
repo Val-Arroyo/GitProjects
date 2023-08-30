@@ -3,3 +3,5 @@ import numpy as np
 
 y = ['One', 'Two', 'Three', 'Four', 'Five'];
 x = [15, 25, 45, 10, 50];
+
+plt.barh();
