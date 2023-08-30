@@ -2,9 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 x = ['Java', 'Python', 'C', 'C++', 'Javascript'];
-y1 = [10, 50, 30, 20, 40];
-y2 = [15, 55, 35, 25, 45];
+y1 = [10, 20, 10, 20, 30];
+y2 = [15, 25, 15, 25, 35];
 
-plt.bar(x, y1, color = 'red');
+plt.bar(x, y1, color = 'r');
 plt.bar(x, y2, bottom = y2, color = 'blue');
 plt.show();
