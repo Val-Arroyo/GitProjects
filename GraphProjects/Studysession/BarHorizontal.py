@@ -1,4 +1,4 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-anime = ['One Piece','Naruto Shippuden','Bleach', '', ''];
+anime = ['One Piece','Naruto Shippuden','Bleach', 'Dragon Ball', ''];
