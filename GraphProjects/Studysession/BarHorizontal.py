@@ -5,5 +5,5 @@ anime = ['One Piece','Naruto Shippuden','Bleach',
          'Dragon Ball', 'Death Note'];
 
 y1 = np.array([40, 30, 20, 50, 10]);
-y2 = np.array([80]);
+y2 = np.array([100]);
 
