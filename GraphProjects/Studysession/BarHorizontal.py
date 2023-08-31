@@ -13,5 +13,6 @@ plt.bar(anime, y2, bottom = y1, color = 'red');
 plt.xlabel();
 plt.ylabel();
 plt.legend();
+plt.
 
 plt.show();
