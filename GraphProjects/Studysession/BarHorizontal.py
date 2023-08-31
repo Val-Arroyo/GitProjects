@@ -7,7 +7,7 @@ anime = ['One Piece','Naruto Shippuden','Bleach',
 y1 = np.array([40, 30, 20, 50, 10]);
 y2 = np.array([100, 60, 40, 20, 30]);
 
-plt.bar(anime, y1, color = 'maroon');
+plt.bar(anime, y1, color = 'blue');
 plt.bar(anime, y2, bottom = y1, color = 'red');
 
 plt.xlabel("Anime List ");
