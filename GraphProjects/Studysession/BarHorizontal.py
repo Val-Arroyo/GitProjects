@@ -14,4 +14,5 @@ plt.xlabel();
 plt.ylabel();
 plt.legend();
 plt.title();
+
 plt.show();
