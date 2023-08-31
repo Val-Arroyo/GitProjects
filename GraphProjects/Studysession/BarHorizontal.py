@@ -10,8 +10,8 @@ y2 = np.array([100, 60, 40, 20, 30]);
 plt.bar(anime, y1, color = 'maroon');
 plt.bar(anime, y2, bottom = y1, color = 'red');
 
-plt.xlabel("");
-plt.ylabel("");
+plt.xlabel("Anime List ");
+plt.ylabel("Popularity Chart");
 plt.legend();
 plt.title("Anime Popularity");
 
