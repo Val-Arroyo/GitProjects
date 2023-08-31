@@ -12,7 +12,7 @@ plt.bar(anime, y2, bottom = y1, color = 'red');
 
 plt.xlabel("Anime List ");
 plt.ylabel("Popularity Chart");
-plt.legend(["One Piece"]);
+plt.legend(["Release Bar", "Current Bar"]);
 plt.title("Anime Popularity");
 
 plt.show();
