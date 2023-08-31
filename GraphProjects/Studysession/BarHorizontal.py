@@ -4,6 +4,6 @@ import numpy as np
 anime = ['One Piece','Naruto Shippuden','Bleach', 
          'Dragon Ball', 'Death Note'];
 
-y1 = np.array([]);
+y1 = np.array([40]);
 y2 = np.array([]);
 
