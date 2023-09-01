@@ -18,3 +18,4 @@ plt.ylabel();
 
 plt.title();
 
+plt.show();
