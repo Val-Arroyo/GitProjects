@@ -8,4 +8,5 @@ y2 = np.array([100, 80, 30, 30]);
 
 plt.title();
 plt.xlabel();
+plt.ylabel();
 
