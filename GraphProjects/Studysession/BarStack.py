@@ -3,8 +3,8 @@ import numpy as np
 
 anime = ['One Piece', 'Naruto Shippuden','Bleach','Dragon Ball'];
 
-y1 = np.array([20, 40, 15, 50]);
-y2 = np.array([100, 80, 30, 30]);
+y1 = [20, 40, 15, 50];
+y2 = [100, 80, 30, 30];
 
 plt.bar(anime, y1, color = 'blue');
 plt.bar(anime, bottom = y1, color = 'red');
