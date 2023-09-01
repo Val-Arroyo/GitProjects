@@ -7,7 +7,7 @@ y1 = np.array([20, 40, 15, 50]);
 y2 = np.array([100, 80, 30, 30]);
 
 plt.bar(anime, y1, color = 'maroon');
-plt.bar(anime, bottom = y1);
+plt.bar(anime, bottom = y1, );
 
 plt.title("Anime Popularity Chart Before and After");
 plt.xlabel("Anime List");
