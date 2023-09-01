@@ -4,4 +4,4 @@ import numpy as np
 anime = [];
 
 y1 = np.array([]);
-y2
+y2 = np.array([]);
