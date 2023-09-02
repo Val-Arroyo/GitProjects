@@ -7,4 +7,4 @@ y1 = np.array([]);
 y2 = np.array([]);
 
 plt.xlabel();
-plt.
+plt.ylabel();
