@@ -6,7 +6,7 @@ bleach = ["Ichigo", "Uryu Ishida", "Chad", "Inoue"];
 y1 = np.array([]);
 y2 = np.array([]);
 
-plt.plot(bleach);
+plt.plot(bleach, y1);
 plt.plot();
 
 plt.xlabel("");
