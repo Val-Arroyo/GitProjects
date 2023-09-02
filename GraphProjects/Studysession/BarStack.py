@@ -7,7 +7,7 @@ y1 = np.array([]);
 y2 = np.array([]);
 
 plt.plot(bleach, y1);
-plt.plot(bleach, y2, bottom = '');
+plt.plot(bleach, y2, bottom = y1);
 
 plt.xlabel("");
 plt.ylabel("");
