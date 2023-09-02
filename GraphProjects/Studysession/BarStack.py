@@ -10,7 +10,7 @@ plt.plot();
 plt.plot();
 
 plt.xlabel("");
-plt.ylabel();
+plt.ylabel("");
 plt.title();
 
 plt.show();
