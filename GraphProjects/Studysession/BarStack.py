@@ -7,6 +7,7 @@ y1 = np.array([]);
 y2 = np.array([]);
 
 plt.plot();
+plt.plot();
 
 plt.xlabel();
 plt.ylabel();
