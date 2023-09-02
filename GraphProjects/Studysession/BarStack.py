@@ -3,7 +3,7 @@ import numpy as np
 
 bleach = ["Ichigo", "Uryu Ishida", "Chad", "Inoue"];
 
-y1 = np.array([40, 30]);
+y1 = np.array([40, 30, 20]);
 y2 = np.array([]);
 
 plt.plot(bleach, y1, color = 'red', width = 0.4);
