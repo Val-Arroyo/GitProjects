@@ -10,7 +10,7 @@ plt.plot(bleach, y1, color = 'red', width = 0.4);
 plt.plot(bleach, y2, bottom = y1, color = 'blue', width = 0.4);
 
 plt.xlabel("Character Name");
-plt.ylabel("");
+plt.ylabel("Strength Level");
 plt.title("Bleach Main Character Strength Levels per Arc");
 
 plt.show();
