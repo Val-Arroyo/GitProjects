@@ -6,8 +6,8 @@ bleach = ["Ichigo", "Uryu", "Chad", "Inoue"];
 y1 = np.array([40, 30, 20, 10]);
 y2 = np.array([100, 90, 50, 40]);
 
-plt.plot(bleach, y1);
-plt.plot(bleach, y2, bottom = y1);
+plt.bar(bleach, y1, color = 'red');
+plt.bar(bleach, y2, bottom=y1);
 
 plt.xlabel("Character Name");
 plt.ylabel("Strength Level");
