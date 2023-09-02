@@ -11,6 +11,6 @@ plt.plot();
 
 plt.xlabel("");
 plt.ylabel("");
-plt.title();
+plt.title("Bleach Main Character Strength Levels per Arc");
 
 plt.show();
