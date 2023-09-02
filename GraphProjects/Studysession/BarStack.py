@@ -9,7 +9,7 @@ y2 = np.array([]);
 plt.plot();
 plt.plot();
 
-plt.xlabel();
+plt.xlabel("");
 plt.ylabel();
 plt.title();
 
