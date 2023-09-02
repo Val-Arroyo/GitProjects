@@ -9,7 +9,7 @@ y2 = np.array([100, 90, 50, 40]);
 plt.plot(bleach, y1, color = 'red', width = 0.4);
 plt.plot(bleach, y2, bottom = y1, color = 'blue', width = 0.4);
 
-plt.xlabel("");
+plt.xlabel("Character Nae");
 plt.ylabel("");
 plt.title("Bleach Main Character Strength Levels per Arc");
 
