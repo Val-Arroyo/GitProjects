@@ -5,7 +5,7 @@ A = np.array([4, 2, 3, 6, 1, 5]);
 B = np.array([2, 4, 6, 3, 2, 5]);
 X = np.arange(6);
 
-plt.barh(X, A, color = 'red');
+plt.barh(X, A, color = 'red', width=);
 plt.barh(X,  -B, color = 'blue');
 plt.title("Back To Back Graph Sample");
 
