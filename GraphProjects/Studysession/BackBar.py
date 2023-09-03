@@ -1,4 +1,4 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-A = np.array([])
+A = np.array([]);
