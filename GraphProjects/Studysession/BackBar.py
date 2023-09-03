@@ -7,3 +7,6 @@ X = np.arrange(6);
 
 plt.barh();
 plt.barh();
+plt.title();
+
+plt.show();
