@@ -9,4 +9,5 @@ plt.barh(X, A, color = 'red');
 plt.barh(X,  -B, color = 'blue');
 plt.title("Back To Back Graph Sample");
 
+plt.grid();
 plt.show();
