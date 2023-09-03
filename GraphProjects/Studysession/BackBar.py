@@ -7,6 +7,6 @@ X = np.arrange(6);
 
 plt.barh(X, A, color = 'red');
 plt.barh(X,  -B, color = 'blue');
-plt.title("Back");
+plt.title("Back to Back");
 
 plt.show();
