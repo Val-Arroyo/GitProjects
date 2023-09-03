@@ -6,3 +6,4 @@ B = np.array([]);
 X = np.arrange(6);
 
 plt.barh();
+plt.
