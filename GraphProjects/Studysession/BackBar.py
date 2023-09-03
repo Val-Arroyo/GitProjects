@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-A = np.array([]);
+A = np.array([4, 2]);
 B = np.array([]);
 X = np.arrange(6);
 
