@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 A = np.array([4, 2, 3, 6, 1, 5]);
-B = np.array([2, 4, 6, 3]);
+B = np.array([2, 4, 6, 3, 2]);
 X = np.arrange(6);
 
 plt.barh(X, A, color = 'red');
