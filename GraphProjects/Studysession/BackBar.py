@@ -5,7 +5,7 @@ A = np.array([]);
 B = np.array([]);
 X = np.arrange(6);
 
-plt.barh(A, );
+plt.barh(X, A,);
 plt.barh();
 plt.title();
 
