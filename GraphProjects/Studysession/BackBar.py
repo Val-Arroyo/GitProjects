@@ -6,7 +6,7 @@ B = np.array([2, 4, 6, 3, 2, 5]);
 X = np.arange(6);
 
 plt.barh(X, A, color = 'red', width = 0.5);
-plt.barh(X,  -B, color = 'blue', linewidth = 0.4);
+plt.barh(X,  -B, color = 'blue', width = 0.5);
 plt.title("Back To Back Graph Sample");
 
 plt.grid();
