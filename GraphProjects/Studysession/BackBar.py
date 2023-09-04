@@ -10,6 +10,6 @@ plt.barh(X, -B, color = 'blue', alpha = 0.4, align = 'center');
 
 plt.grid();
 plt.xlabel("Numbers");
-plt.ylabel();
+plt.ylabel("Numbers");
 plt.title("Graph Sample");
 plt.show();
