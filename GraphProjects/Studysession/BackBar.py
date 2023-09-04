@@ -7,4 +7,4 @@ X = np.arange();
 
 plt.grid();
 plt.xlabel();
-plt
+plt.ylabel();
