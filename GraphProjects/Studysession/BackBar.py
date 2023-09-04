@@ -6,7 +6,7 @@ B = np.array([]);
 X = np.arange(8);
 
 plt.barh();
-
+plt.barh();
 
 plt.grid();
 plt.xlabel();
