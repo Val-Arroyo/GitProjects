@@ -9,7 +9,7 @@ plt.barh(X, A, color = 'red', alpha = 0.4, align = 'center');
 plt.barh(X, -B, color = 'blue', alpha = 0.4, align = 'center');
 
 plt.grid();
-plt.xlabel();
+plt.xlabel("Numbers");
 plt.ylabel();
 plt.title("Graph Sample");
 plt.show();
