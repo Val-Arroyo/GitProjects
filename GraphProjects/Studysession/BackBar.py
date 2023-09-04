@@ -6,3 +6,4 @@ B = np.array([]);
 X = np.arange();
 
 plt.grid();
+plt.xlabel();
