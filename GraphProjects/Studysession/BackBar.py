@@ -3,7 +3,7 @@ import numpy as np
 
 A = np.array([5,]);
 B = np.array([]);
-X = np.arange();
+X = np.arange(8);
 
 plt.grid();
 plt.xlabel();
