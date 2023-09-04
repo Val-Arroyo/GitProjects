@@ -3,3 +3,4 @@ import numpy as np
 
 A = np.array([]);
 B = np.array([]);
+X =
