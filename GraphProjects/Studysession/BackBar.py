@@ -9,4 +9,4 @@ plt.grid();
 plt.xlabel();
 plt.ylabel();
 plt.title();
-plt
+plt.show();
