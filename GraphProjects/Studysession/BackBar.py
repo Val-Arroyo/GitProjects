@@ -11,5 +11,5 @@ plt.barh(X, -B, color = 'blue', alpha = 0.4, align = 'center');
 plt.grid();
 plt.xlabel();
 plt.ylabel();
-plt.title();
+plt.title("Graph Sample");
 plt.show();
