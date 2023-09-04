@@ -6,7 +6,7 @@ B = np.array([80, 60, 40, 20, 120, 140, 100, 160]);
 X = np.arange(8);
 
 plt.barh(X, A, color = 'red');
-plt.barh(X, -B);
+plt.barh(X, -B, color = 'blue');
 
 plt.grid();
 plt.xlabel();
