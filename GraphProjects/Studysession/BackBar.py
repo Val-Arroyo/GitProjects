@@ -8,3 +8,4 @@ plt.barh(x, y);
 
 for index, value in enumerate(y):
     plt.text(value, index, str(value));
+
