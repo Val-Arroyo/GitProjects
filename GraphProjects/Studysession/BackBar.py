@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-X = ["A", "B",];
+X = ["A", "B", ""];
 Y = [];
