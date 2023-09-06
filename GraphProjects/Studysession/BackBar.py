@@ -28,5 +28,4 @@ plt.ylabel("Marks Secured", size=14)
  
 plt.title("This is an annotated barplot")
  
-
 plt.show()
