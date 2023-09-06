@@ -4,3 +4,4 @@ import seaborn as sns
 import pandas as pd
 
 A = np.array([]);
+B = np.array([]);
