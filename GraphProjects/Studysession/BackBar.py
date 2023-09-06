@@ -9,7 +9,7 @@ data = {"Name": ["Alex", "Bob", "Clarein", "Dexter"],
 df = pd.DataFrame(data, columns=['Name', 'Marks'])
  
  
-# Defining the plot size
+ 
 plt.figure(figsize=(8, 8))
  
 # Defining the values for x-axis, y-axis
