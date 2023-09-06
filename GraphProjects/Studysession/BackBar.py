@@ -8,3 +8,4 @@ B = np.array([]);
 X = np.arange(8);
 
 plt.bar();
+plt.bar();
