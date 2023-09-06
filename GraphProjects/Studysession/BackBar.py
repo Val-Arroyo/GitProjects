@@ -9,3 +9,5 @@ X = np.arange(8);
 
 plt.bar();
 plt.bar();
+
+plt.grid();
