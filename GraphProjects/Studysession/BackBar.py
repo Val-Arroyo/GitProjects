@@ -24,7 +24,7 @@ for bar in plots.patches:
 
 plt.xlabel("Students", size=14)
  
-# Setting the label for y-axis
+
 plt.ylabel("Marks Secured", size=14)
  
 # Setting the title for the graph
