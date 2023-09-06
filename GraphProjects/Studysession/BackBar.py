@@ -21,7 +21,7 @@ for bar in plots.patches:
                    size=15, xytext=(0, 8),
                    textcoords='offset points')
  
-# Setting the label for x-axis
+
 plt.xlabel("Students", size=14)
  
 # Setting the label for y-axis
