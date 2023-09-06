@@ -26,7 +26,6 @@ plt.xlabel("Students", size=14)
  
 plt.ylabel("Marks Secured", size=14)
  
-
 plt.title("This is an annotated barplot")
  
 
