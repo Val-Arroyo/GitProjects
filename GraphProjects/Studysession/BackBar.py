@@ -24,7 +24,6 @@ for bar in plots.patches:
 
 plt.xlabel("Students", size=14)
  
-
 plt.ylabel("Marks Secured", size=14)
  
 
