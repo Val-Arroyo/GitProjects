@@ -14,12 +14,7 @@ plots = sns.barplot(x="Name", y="Marks", data=df)
  
 for bar in plots.patches:
    
-  # Using Matplotlib's annotate function and
-  # passing the coordinates where the annotation shall be done
-  # x-coordinate: bar.get_x() + bar.get_width() / 2
-  # y-coordinate: bar.get_height()
-  # free space to be left to make graph pleasing: (0, 8)
-  # ha and va stand for the horizontal and vertical alignment
+  
   plots.annotate(format(bar.get_height(), '.2f'),
                    (bar.get_x() + bar.get_width() / 2,
                     bar.get_height()), ha='center', va='center',
