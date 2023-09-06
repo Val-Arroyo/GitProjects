@@ -12,7 +12,7 @@ plt.figure(figsize=(8, 8))
  
 plots = sns.barplot(x="Name", y="Marks", data=df)
  
-# Iterating over the bars one-by-one
+
 for bar in plots.patches:
    
   # Using Matplotlib's annotate function and
