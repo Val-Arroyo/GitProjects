@@ -11,7 +11,6 @@ df = pd.DataFrame(data, columns=['Name', 'Marks'])
  
 plt.figure(figsize=(8, 8))
  
-
 plots = sns.barplot(x="Name", y="Marks", data=df)
  
 # Iterating over the bars one-by-one
