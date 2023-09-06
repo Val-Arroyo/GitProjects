@@ -3,7 +3,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
-A = np.array([20, ]);
+A = np.array([20, 60]);
 B = np.array([]);
 X = np.arange(8);
 
