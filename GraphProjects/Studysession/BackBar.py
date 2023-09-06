@@ -11,4 +11,4 @@ plt.bar();
 plt.bar();
 
 plt.grid();
-plt.title()
+plt.title();
