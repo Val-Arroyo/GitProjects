@@ -6,7 +6,6 @@ import pandas as pd
 data = {"Name": ["Alex", "Bob", "Clarein", "Dexter"],
         "Marks": [45, 23, 78, 65]}
  
-
 df = pd.DataFrame(data, columns=['Name', 'Marks'])
  
  
