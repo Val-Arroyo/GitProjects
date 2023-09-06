@@ -12,3 +12,4 @@ plt.bar();
 
 plt.grid();
 plt.title();
+plt.xlabel();
