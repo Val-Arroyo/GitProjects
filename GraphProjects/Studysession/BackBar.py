@@ -16,5 +16,4 @@ plt.xlabel("Numbers Display");
 plt.ylabel("Positive and Negative Number Display");
 
 
-
 plt.show();
