@@ -15,5 +15,5 @@ plt.title("Positive and Negative Graph");
 plt.xlabel("Numbers Display");
 plt.ylabel("Positive and Negative Number Display");
 
-
+plt
 plt.show();
