@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
-import matplotlib.ticker
+import matplotlib.ticker as mtick
+
 import numpy as np
 import seaborn as sns   
 import pandas as np
