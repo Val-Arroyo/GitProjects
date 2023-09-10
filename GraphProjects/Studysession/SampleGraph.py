@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
+
 import numpy as np
-import matplotlib.ticker as mtick
+from matplotlib.ticker import Percent
 import seaborn as sns
 import pandas as pd
