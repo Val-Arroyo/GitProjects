@@ -9,6 +9,6 @@ a = np.array([20, 15, 30, 40, 10, 25]);
 
 fig, ax = plt.subplots(figsize = (10, 7));
 
-ax.hist(a, bins = []);
+ax.hist(a, bins = [0, 10]);
 
 plt.show();
