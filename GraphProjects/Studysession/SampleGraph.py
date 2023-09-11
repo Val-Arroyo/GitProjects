@@ -11,3 +11,4 @@ fig, ax = plt.subplots(figsize = (10, 7));
 
 ax.hist(a, bins = []);
 
+plt.show();
