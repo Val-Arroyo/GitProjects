@@ -9,3 +9,4 @@ a = np.array([20, 15, 30, 40, 10, 25]);
 
 
 fig, ax = plt.subplots(figsize = (10, 7));
+
