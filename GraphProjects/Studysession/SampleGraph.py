@@ -1,4 +1,4 @@
-import matplotlib as plt
+import matplotlib.pyplot as plt
 from matplotlib import colors
 import numpy as np
 import seaborn as sns
