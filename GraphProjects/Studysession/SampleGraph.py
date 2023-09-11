@@ -12,6 +12,6 @@ a = np.array([22, 87, 5, 43, 56,
 
 fig, ax = plt.subplots(figsize = (10, 7));
 
-ax.hist(a, bins = [0, 25, 50, 75, 100]);
+ax.hist(a, bins = [0, 20, 50, 75, 100]);
 
 plt.show();
