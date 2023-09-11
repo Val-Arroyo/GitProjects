@@ -1,17 +1,10 @@
 import matplotlib.pyplot as plt
-from matplotlib import colors
-from matplotlib.ticker import PercentFormatter 
 import numpy as np
-import seaborn as sns
-import pandas as pd
 
-a = np.array([22, 87, 5, 43, 56,
-              73, 55, 54, 11,
-              20, 51, 5, 79, 31,
-              27]);
+series1 = np.random.randn(500, 1);
+series2 = np.random.randn(400, 1);  
 
-fig, ax = plt.subplots(figsize = (10, 7));
+plt.hist(series1);
+plt.hist();
 
-ax.hist(a, bins = [0, 25, 50, 75, 100]);
-
-plt.show();
+plt.show()
