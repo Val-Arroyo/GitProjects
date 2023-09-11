@@ -5,5 +5,5 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
-a = np.array([20,]);
+a = np.array([20, 15,]);
 
