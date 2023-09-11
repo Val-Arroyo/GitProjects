@@ -1,2 +1,2 @@
 import matplotlib as plt
-import 
+import numpy 
