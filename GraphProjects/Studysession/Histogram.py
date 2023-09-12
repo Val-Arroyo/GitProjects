@@ -5,6 +5,6 @@ random_number = np.random.normal(170, 10, 250);
 
 print(random_number);
 
-plt.hist(rand);
+plt.hist(random);
 
 plt.show();
