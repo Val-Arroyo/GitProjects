@@ -1,7 +1,7 @@
 import matplotlib as plt
 import numpy as np
 
-rand = np.random.normal(170, 10, 250);
+random_number = np.random.normal(170, 10, 250);
 
 print(rand);
 
