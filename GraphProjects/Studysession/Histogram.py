@@ -3,5 +3,5 @@ import numpy as np
 
 x = np.random.normal();
 
-plt.hist();
+plt.hist(x);
 plt.show();
