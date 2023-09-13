@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib import colors
-from matplotlib
+from matplotlib.ticker
 import numpy as np
 import pandas as pd
 import seaborn as sns
