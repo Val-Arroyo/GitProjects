@@ -3,4 +3,4 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
-random_number = np.random
+random_number = np.random.normal
