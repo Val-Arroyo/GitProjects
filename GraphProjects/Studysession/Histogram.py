@@ -5,3 +5,4 @@ import seaborn as sns
 
 random_number = np.random.normal(170, 10, 250);
 
+print()
