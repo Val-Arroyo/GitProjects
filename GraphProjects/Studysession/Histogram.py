@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib import colors
-from matplotlib.ticker import 
+from matplotlib.ticker import PercentFormatter
 import numpy as np
 import pandas as pd
 import seaborn as sns
