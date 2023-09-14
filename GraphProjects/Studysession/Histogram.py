@@ -3,7 +3,6 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
-legend = 0.5
 random_number = np.random.normal(170, 10, 250);
 
 print(random_number);
