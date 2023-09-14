@@ -9,5 +9,5 @@ print(random_number);
 plt.hist(random_number, color='maroon');
 
 
-
+plt.
 plt.show()
