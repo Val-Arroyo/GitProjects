@@ -8,6 +8,6 @@ random_number = np.random.normal(170, 10, 250);
 print(random_number);
 plt.hist(random_number, color='maroon');
 
-plt.title();
+plt.title("Histogram Random Graph");
 plt.legend();
 plt.show()
