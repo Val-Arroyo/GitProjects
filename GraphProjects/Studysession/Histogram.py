@@ -8,6 +8,6 @@ random_number = np.random.normal(170, 10, 250);
 print(random_number);
 plt.hist(random_number, color='maroon');
 
-plt.
+plt.title();
 plt.legend();
 plt.show()
