@@ -10,5 +10,5 @@ print(random_number);
 plt.hist(random_number, color='maroon');
 
 
-plt.legend();
+plt.legend(legend);
 plt.show()
