@@ -8,5 +8,5 @@ random_number = np.random.normal(170, 10, 250);
 print(random_number);
 
 plt.grid();
-plt.legend
+plt.legend();
 plt.show();
