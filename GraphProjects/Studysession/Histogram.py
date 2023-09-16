@@ -5,4 +5,4 @@ import pandas as pd
 
 random_number = np.random.randn(170, 10, 250);
 
-print(random_number)
+print(random_number);
