@@ -7,4 +7,4 @@ random_number = np.random.randn(170, 10, 250);
 
 print(random_number);
 
-plt.
+plt.show();
