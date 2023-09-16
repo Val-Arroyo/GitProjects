@@ -8,5 +8,5 @@ random_number = np.random.randn(170, 10, 250);
 print(random_number);
 
 plt.hist(random_number);
-
+plt.grid();
 plt.show();
