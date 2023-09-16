@@ -7,5 +7,5 @@ random_number = np.random.randn(170, 10, 250);
 
 print(random_number);
 
-plt.hist();
+plt.hist(random_number);
 plt.show();
