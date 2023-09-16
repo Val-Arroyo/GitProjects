@@ -9,4 +9,5 @@ print(random_number);
 
 plt.hist(random_number);
 plt.grid();
+plt.legend();
 plt.show();
