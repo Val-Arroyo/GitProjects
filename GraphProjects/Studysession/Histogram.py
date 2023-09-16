@@ -8,6 +8,8 @@ random_number = np.random.normal(170, 10, 250);
 print(random_number);
 
 plt.grid();
-plt.hist(random_number, color = 'maroon');
+plt.hist(random_number, color = 'blue', ec = 'red', lw = 1);
 plt.legend();
+plt.xlabel("Hundreds of Number");
+plt.ylabel("Tens of Numbers");
 plt.show();
