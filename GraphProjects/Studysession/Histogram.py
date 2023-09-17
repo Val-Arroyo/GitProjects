@@ -6,6 +6,6 @@ import pandas as pd
 rand_number = np.random.normal(150, 20, 270);
 
 plt.grid();
-plt.hist(rand_number, color = 'red', edgecolor = 'blue', alpha = 0.5);
+plt.hist(rand_number, color = 'red', edgecolor = 'blue');
 plt.legend()
 plt.show();
