@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import pandas as pd
+from numpy.lib.histograms import histogram
 
 rand_number = np.random.randn(500, 1);
 
