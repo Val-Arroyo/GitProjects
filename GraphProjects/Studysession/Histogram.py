@@ -5,7 +5,7 @@ import pandas as pd
 
 rand_number = np.random.normal(150, 20, 270);
 
-
+plt.grid();
 plt.hist(rand_number);
 plt.legend()
 plt.show();
