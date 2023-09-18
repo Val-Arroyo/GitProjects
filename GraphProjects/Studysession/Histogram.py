@@ -6,6 +6,7 @@ from numpy.lib.histograms import histogram
 
 rand_number = np.random.randn(500, 1);
 
+
 plt.grid();
 plt.hist(rand_number, color = 'red', edgecolor = 'blue', label = 'Histogram');
 plt.legend()
