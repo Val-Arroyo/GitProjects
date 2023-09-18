@@ -6,5 +6,5 @@ import pandas as pd
 x = [1, 2, 3, 4, 5, 6, 7, 4];
 bins = [1, 2, 3, 4, 5, 6, 7];
 
-plt.hist();
+plt.hist(x,);
 plt.show()
