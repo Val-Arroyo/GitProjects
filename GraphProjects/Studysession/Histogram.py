@@ -5,9 +5,10 @@ bins = [1, 2, 3, 4, 5, 6, 7]
 
 fig = plt.figure(figsize = (10, 7));
 
-plt.hist(x, bins)
+plt.hist(x, bins);
 
-plt.title("Histogram")
+plt.title("Histogram");
 
-plt.legend(["bar"])
-plt.show()
+plt.legend(["bar"]);
+
+plt.show();
