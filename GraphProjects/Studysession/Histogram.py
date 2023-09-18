@@ -7,6 +7,6 @@ x = [1, 2, 3, 4, 5, 6, 7, 4];
 bins = [1, 2, 3, 4, 5, 6, 7];
 
 plt.hist(x, bins);
-plt.title("Histogran");
+plt.title("Histogram");
 plt.legend();
 plt.show();
