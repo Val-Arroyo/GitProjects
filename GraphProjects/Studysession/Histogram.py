@@ -9,5 +9,5 @@ fig = plt.figure(figsize=(8, 5));
 
 plt.grid();
 plt.hist(rand_number, color = 'red', edgecolor = 'blue', label = 'Histogram');
-plt.legend([''])
+plt.legend(['Random'])
 plt.show();
