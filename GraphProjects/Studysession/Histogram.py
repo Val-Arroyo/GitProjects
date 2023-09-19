@@ -9,3 +9,4 @@ n_bins = 20;
 
 x = np.random.randn(N_points);
 y = .8 ** x + np.random.randn(10000) + 25
+
