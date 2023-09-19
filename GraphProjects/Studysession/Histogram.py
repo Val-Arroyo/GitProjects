@@ -14,7 +14,7 @@ fig, axs = plt.subplots(1, 1,
                         figsize = (7, 5),
                         tight_layout = True );
 
-axs.hist(x, bins = n_bins, color = 'red', linestyle = "-.", linewidth = 0.5);
+axs.hist(x, bins = n_bins, color = 'red', linestyle = '-.', linewidth = 0.5, b = True);
 axs.grid(color = 'red');
 
 plt.show();
