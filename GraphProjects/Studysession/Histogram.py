@@ -10,4 +10,4 @@ n_bins = 20;
 x = np.random.randn(N_points);
 y = .8 ** x + np.random.randn(10000) + 25
 
-fig, axs = 
+fig, axs = plt.subplots(1, 1, figsize = (10, 7).)
