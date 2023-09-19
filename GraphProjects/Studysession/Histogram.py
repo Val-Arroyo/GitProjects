@@ -15,3 +15,5 @@ fig, axs = plt.subplots(1, 1,
                         tight_layout = True );
 
 axs.hist(x, bins = n_bins);
+
+plt.show();
