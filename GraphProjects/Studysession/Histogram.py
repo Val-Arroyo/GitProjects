@@ -16,4 +16,5 @@ fig, axs = plt.subplots(1, 1,
 
 axs.hist(x, bins = n_bins, color = 'red');
 
+
 plt.show();
