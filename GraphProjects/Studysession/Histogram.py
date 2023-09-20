@@ -5,5 +5,6 @@ import pandas as pd
 from matplotlib import colors
 
 graph1 = np.random.rand();
+graph2 =
 
 plt.show();
