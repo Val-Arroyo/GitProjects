@@ -18,6 +18,6 @@ axs.hist(graph2, color = 'blue', edgecolor = 'black', bins = n_bins, label = 'Se
 axs.hist(graph3, color = 'green', edgecolor = 'black', bins = n_bins, label = 'Third Histogram');
 
 plt.grid(color = 'red', linestyle = '-.', linewidth = 0.5);
-plt.title();
+plt.title('3 Histogram Comparisons');
 plt.legend();
 plt.show();
