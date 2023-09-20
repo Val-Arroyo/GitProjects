@@ -4,7 +4,7 @@ import seaborn as sns
 import pandas as pd
 from matplotlib import colors
 
-graph1 = np.random.rand();
-graph2 = np.random
+graph1 = np.random.randn();
+graph2 = np.random.randn
 
 plt.show();
