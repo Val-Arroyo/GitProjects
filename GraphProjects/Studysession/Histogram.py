@@ -4,6 +4,6 @@ import seaborn as sns
 import pandas as pd
 from matplotlib import colors
 
-graph1 = np.()
+graph1 = np.random.()
 
 plt.show();
