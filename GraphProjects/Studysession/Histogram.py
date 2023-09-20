@@ -14,7 +14,7 @@ n_bins = 14;
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
 axs.hist(graph1, color = 'red', edgecolor = 'black', bins = n_bins);
-axs.hist(graph2, color = 'blue', edgecolor = 'black');
+axs.hist(graph2, color = 'blue', edgecolor = 'black', bins = );
 axs.hist(graph3, color = 'green', edgecolor = 'black');
 
 plt.show();
