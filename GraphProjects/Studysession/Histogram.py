@@ -18,5 +18,5 @@ axs.hist(graph2, color = 'blue', edgecolor = 'black', bins = n_bins);
 axs.hist(graph3, color = 'green', edgecolor = 'black', bins = n_bins);
 
 plt.grid();
-plt.legend()
+plt.legend();
 plt.show();
