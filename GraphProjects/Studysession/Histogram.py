@@ -1,20 +1,18 @@
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 import numpy as np
 import seaborn as sns
-import pandas as pd
+import pandas 
+from matplotlib.ticker import PercentFormatter
+from matplotlib import colors
+from numpy.lib.histograms import histogram
 
-np.random.seed(23685752);
-N_points = 10000;
-n_bins = 20;
+graph1 = np.random.randn(500, 1);
+graph2 = np.random.randn(400, 1);
 
-x = np.random.randn(N_points);
-y = .8 ** x + np.random.randn(10000) + 25
+fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
-fig, axs = plt.subplots(1, 1, 
-                        figsize = (7, 5),
-                        tight_layout = True );
+axs.hist(graph1, color = 'red', alpha = 0.8, edgecolor = 'black');
+axs.hist(graph2, color = 'blue', alpha = 0.7, edgecolor = 'white');
 
-axs.hist(x, bins = n_bins, color = 'blue');
-axs.grid(color = 'red', linestyle = '-.', linewidth = 0.5);
-
+axs.grid(color = 'red', linewidth = 0.7, linestyle = '-.');
 plt.show();
