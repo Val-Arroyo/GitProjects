@@ -10,6 +10,6 @@ graph2 = np.random.randn(400, 1);
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
 axs.hist();
-
+axs.hist()
 
 plt.show();
