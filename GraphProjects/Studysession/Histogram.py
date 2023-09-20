@@ -12,5 +12,6 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
 axs.hist(graph1);
 axs.hist(graph2);
+axs.hist(graph3);
 
 plt.show();
