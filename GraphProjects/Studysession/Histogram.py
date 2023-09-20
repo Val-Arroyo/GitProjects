@@ -11,7 +11,7 @@ graph3 = np.random.randn(300, 1);
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
 axs.hist(graph1, color = 'red');
-axs.hist(graph2);
+axs.hist(graph2, color = 'blue');
 axs.hist(graph3);
 
 plt.show();
