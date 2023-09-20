@@ -12,6 +12,6 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
 axs.hist(graph1, color = 'red', edgecolo = 'black');
 axs.hist(graph2, color = 'blue', edgecolor = 'black');
-axs.hist(graph3, color = 'green');
+axs.hist(graph3, color = 'green', edgecolor = 'black');
 
 plt.show();
