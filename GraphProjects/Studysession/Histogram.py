@@ -9,7 +9,7 @@ graph1 = np.random.randn(500, 1);
 graph2 = np.random.randn(400, 1);
 graph3 = np.random.randn(300, 1);
 
-n_bins = 14
+n_bins = 14;
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
