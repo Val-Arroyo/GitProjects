@@ -6,7 +6,7 @@ from matplotlib import colors
 
 graph1 = np.random.randn(300, 1);
 graph2 = np.random.randn(400, 1);
-
+graph3 = 
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
