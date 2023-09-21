@@ -11,6 +11,6 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 axs.hist();
 axs.hist();
 
-plt.grid();
+plt.grid(color = 'red');
 plt.legend()
 plt.show();
