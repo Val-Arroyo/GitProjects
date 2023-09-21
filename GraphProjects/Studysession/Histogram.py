@@ -3,4 +3,4 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
-graph_1 = np.random
+graph_1 = np.random.randn();
