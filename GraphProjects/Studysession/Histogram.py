@@ -1,1 +1,1 @@
-import maplotlib.pyplot
+import maplotlib.pyplot as plt
