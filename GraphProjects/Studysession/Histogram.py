@@ -5,4 +5,4 @@ import pandas as pd
 import matplotlib.ticker as mtick
 from matplotlib import colors
 from numpy.lib.histograms import histogram
-from matplotlib.ticker
+from matplotlib.ticker import PercentFormatter
