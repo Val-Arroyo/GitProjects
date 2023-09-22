@@ -8,4 +8,4 @@ from numpy.lib.histograms import histogram
 from matplotlib.ticker import PercentFormatter
 
 Hist_1 = np.random.randn(500, 1);
-Hist_2 = np.random.randn();
+Hist_2 = np.random.randn(300, 1);
