@@ -12,3 +12,5 @@ Hist_2 = np.random.randn(300, 1);
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
+axs.hist();
+axs.hist();
