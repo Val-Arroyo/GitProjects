@@ -15,6 +15,6 @@ fig, axs = plt.subplots(1, 1, figsize = (8, 6));
 axs.hist(Hist_1, color = 'red', edgecolor = 'black', label='First Histogram');
 axs.hist(Hist_2, color = 'blue', edgecolor = 'black', label='Second Histogram');
 
-plt.grid(color = 'red', linestyle = '-.', linewidth = 0.5);
+plt.grid(color = 'red', linestyle = '-.', linewidth = 0.9);
 plt.legend()
 plt.show();
