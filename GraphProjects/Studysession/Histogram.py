@@ -17,3 +17,4 @@ plt.grid(color = 'red', linestyle = '-.', linewidth = 0.6);
 plt.legend()
 plt.show();
 
+
