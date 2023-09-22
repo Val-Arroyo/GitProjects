@@ -15,3 +15,4 @@ axs.hist(graph_2, color = 'blue', edgecolor = 'black', label = 'Second Histogram
 plt.grid(color = 'red', linestyle = '-.', linewidth = 0.6);
 plt.legend()
 plt.show();
+
