@@ -4,4 +4,4 @@ import seaborn as sns
 import pandas as pd
 from matplotlib import colors
 from numpy.lib.histograms import histogram
-from matplotlib.ticker as mtick
+from matplotlib.ticker import mtick
