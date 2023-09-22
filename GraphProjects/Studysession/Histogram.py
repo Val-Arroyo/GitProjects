@@ -12,6 +12,9 @@ Hist_2 = np.random.randn(300, 1);
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
-axs.hist(Hist_1, color = 'red', edgecolor = 'black');
+axs.hist(Hist_1, color = 'red', edgecolor = 'black', label='First Histogram');
 axs.hist(Hist_2, color = 'blue', edgecolor = 'black');
 
+plt.grid(color = 'red', linestyle = '-.', linewidth = 0.5);
+plt.legend()
+plt.show();
