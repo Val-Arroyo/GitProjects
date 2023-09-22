@@ -10,7 +10,7 @@ from matplotlib.ticker import PercentFormatter
 Hist_1 = np.random.randn(500, 1);
 Hist_2 = np.random.randn(300, 1);
 
-fig, axs = plt.subplots(1, 1, figsize = (7, 5));
+fig, axs = plt.subplots(1, 1, figsize = (8, 5));
 
 axs.hist(Hist_1, color = 'red', edgecolor = 'black', label='First Histogram');
 axs.hist(Hist_2, color = 'blue', edgecolor = 'black', label='Second Histogram');
