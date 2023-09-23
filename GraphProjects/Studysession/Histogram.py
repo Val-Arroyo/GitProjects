@@ -6,3 +6,4 @@ from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 from numpy.lib.histograms import histogram
 
+hist_1 = 
