@@ -17,5 +17,5 @@ axs.hist(hist_2, color = 'blue', edgecolor = 'black', label = 'Second Histogram'
 plt.grid(color = 'grey', linestyle = '+.', linewidth = 0.5);
 plt.legend()
 plt.xlabel("X Label");
-plt.ylabel("")
+plt.ylabel("Y ")
 plt.show();
