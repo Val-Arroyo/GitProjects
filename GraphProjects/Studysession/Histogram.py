@@ -14,6 +14,9 @@ fig, axs = plt.subplots(1, 1, figsize = (8, 6), tight_layout = True);
 axs.hist(hist_1, color = 'red', edgecolor = 'black', label = 'First Histogram');
 axs.hist(hist_2, color = 'blue', edgecolor = 'black', label = 'Second Histogram');
 
+axs.xaxis.set_tick_params(pad = 5)
+axs.yaxis.set_tick_params(pad = );
+
 plt.grid(color = 'black', linestyle = '-.', linewidth = 0.5);
 plt.legend()
 plt.xlabel("X Label");
