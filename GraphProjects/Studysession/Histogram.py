@@ -15,7 +15,7 @@ axs.hist(hist_1, color = 'red', edgecolor = 'black', label = 'First Histogram');
 axs.hist(hist_2, color = 'blue', edgecolor = 'black', label = 'Second Histogram');
 
 axs.xaxis.set_tick_params(pad = 5)
-axs.yaxis.set_tick_params(pad = );
+axs.yaxis.set_tick_params(pad = 10);
 
 plt.grid(color = 'black', linestyle = '-.', linewidth = 0.5);
 plt.legend()
