@@ -12,7 +12,7 @@ hist_2 = np.random.randn(800, 1);
 fig, axs = plt.subplots(1, 1, figsize = (8, 6), tight_layout = True);
 
 axs.hist(hist_1, color = 'red');
-axs.hist(hist_2);
+axs.hist(hist_2, color = 'blue');
 
 plt.grid();
 plt.legend()
