@@ -19,3 +19,4 @@ plt.legend();
 plt.xlabel();
 plt.ylabel();
 
+plt.show();
