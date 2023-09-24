@@ -7,3 +7,4 @@ from matplotlib.ticker import PercentFormatter
 from numpy.lib.histograms import histogram
 
 Hist_1 = np.random.randn();
+Hist_2
