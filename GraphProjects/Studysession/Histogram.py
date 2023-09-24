@@ -15,3 +15,4 @@ axs.hist();
 axs.hist();
 
 plt.grid();
+plt.legend();
