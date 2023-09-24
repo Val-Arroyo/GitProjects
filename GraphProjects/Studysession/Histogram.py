@@ -9,3 +9,4 @@ from numpy.lib.histograms import histogram
 Hist_1 = np.random.randn(300, 1);
 Hist_2 = np.random.randn(200, 1);
 
+fig, axs = 
