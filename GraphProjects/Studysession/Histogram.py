@@ -16,4 +16,4 @@ axs.hist();
 
 plt.grid();
 plt.legend();
-plt.
+plt.xlabel();
