@@ -18,3 +18,4 @@ plt.grid();
 plt.legend();
 plt.xlabel();
 plt.ylabel();
+
