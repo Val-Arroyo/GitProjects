@@ -12,5 +12,5 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
 axs.hist(random_number);
 
-plt.grid(color = 'greys', linestyle = '-.', linewidth = 0.5)
+plt.grid(color = 'grey', linestyle = '-.', linewidth = 0.5)
 plt.show();
