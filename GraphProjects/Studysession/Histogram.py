@@ -8,3 +8,4 @@ from numpy.lib.histograms import histogram
 
 random_number = np.random.normal(150, 10, 270);
 
+fig, axs = plt.subplots(1, 1,)
