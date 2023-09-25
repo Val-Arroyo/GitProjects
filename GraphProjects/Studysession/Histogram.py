@@ -14,7 +14,7 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 axs.hist(Hist_1, color = 'red', edgecolor = 'black', );
 axs.hist(Hist_2, color = 'blue', edgecolor = 'black');
 
-plt.grid(color = 'red', );
+plt.grid(color = 'red', linestyle = '');
 plt.legend();
 plt.xlabel();
 plt.ylabel();
