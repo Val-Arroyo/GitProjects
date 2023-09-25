@@ -16,7 +16,7 @@ axs.hist(Hist_2, color = 'blue', edgecolor = 'black');
 
 plt.grid(color = 'red', linestyle = '-.', linewidth = 0.5);
 plt.legend();
-plt.xlabel();
+plt.xlabel("X label Numbers");
 plt.ylabel();
 
 plt.show();
