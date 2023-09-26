@@ -17,7 +17,7 @@ axs.hist(random_number_generator, color = 'red',
 axs.hist(random_number_generator_2, color = 'blue',
          edgecolor = 'black', label = 'Random Histogram 2')
 
-plt.grid(color = 'grey', linestyle = '-', linewidth = 0.5);
+plt.grid(color = 'grey', linestyle = '-.', linewidth = 0.5);
 plt.legend();
 plt.xlabel("Horizontal Label");
 plt.ylabel("Vertical Label");
