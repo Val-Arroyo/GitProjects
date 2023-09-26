@@ -10,5 +10,5 @@ random_number_generator = np.random.normal(170, 15, 250);
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
-axs.hist(random_number_generator, color = 'red', edgecolor = 'black',
-         );
+axs.hist(random_number_generator, color = 'red', edgecolor = 'black');
+
