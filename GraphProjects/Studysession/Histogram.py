@@ -15,7 +15,7 @@ axs.hist(random_number_generator, color = 'red',
          edgecolor = 'black', label = 'Random Histogram');
 
 axs.hist(random_number_generator_2, color = 'blue',
-         edgecolor = 'black', )
+         edgecolor = 'black', label = '')
 
 plt.grid(color = 'grey', linestyle = '-', linewidth = 0.5);
 plt.legend();
