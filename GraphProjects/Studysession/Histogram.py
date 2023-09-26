@@ -14,3 +14,4 @@ axs.hist(random_number_generator, color = 'red',
          edgecolor = 'black', label = 'Random Histogram');
 
 plt.grid(color = 'red', linestyle = '-', linewidth = 0.5);
+
