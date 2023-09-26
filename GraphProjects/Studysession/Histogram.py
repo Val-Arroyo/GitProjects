@@ -16,3 +16,4 @@ axs.hist(random_number_generator, color = 'red',
 plt.grid(color = 'red', linestyle = '-', linewidth = 0.5);
 plt.legend();
 plt.xlabel();
+plt.ylabel();
