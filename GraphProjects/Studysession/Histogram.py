@@ -12,4 +12,4 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
 axs.hist(random_number_generator, color = 'red', edgecolor = 'black');
 
-plt.grid(color = 'red', linestyle = '-',);
+plt.grid(color = 'red', linestyle = '-', linewidth = 0.5);
