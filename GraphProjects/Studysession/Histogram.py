@@ -13,7 +13,7 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 axs.hist(random_number_generator, color = 'red', 
          edgecolor = 'black', label = 'Random Histogram');
 
-plt.grid(color = 'red', linestyle = '-', linewidth = 0.5);
+plt.grid(color = 'grey', linestyle = '-', linewidth = 0.5);
 plt.legend();
 plt.xlabel("Horizontal Label");
 plt.ylabel("Vertical Label");
