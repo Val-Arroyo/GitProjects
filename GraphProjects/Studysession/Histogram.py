@@ -4,4 +4,4 @@ import seaborn as sns
 import pandas as pd
 from matplotlib import colors 
 from matplotlib.ticker import PercentFormatter
-from numpy.lib
+from numpy.lib.histograms
