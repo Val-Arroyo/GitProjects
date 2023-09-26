@@ -7,11 +7,14 @@ from matplotlib.ticker import PercentFormatter
 from numpy.lib.histograms import histogram
 
 random_number_generator = np.random.normal(170, 15, 250);
+random_number_generator_2 = np.random.normal(150, 20, 300);
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
 axs.hist(random_number_generator, color = 'red', 
          edgecolor = 'black', label = 'Random Histogram');
+
+axs.hist(random_number_generator_2, )
 
 plt.grid(color = 'grey', linestyle = '-', linewidth = 0.5);
 plt.legend();
