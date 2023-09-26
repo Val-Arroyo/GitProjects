@@ -6,4 +6,4 @@ from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 from numpy.lib.histograms import histogram
 
-random_number_generator = np.random.normal(170, 15, 250)
+random_number_generator = np.random.normal(170, 15, 250);
