@@ -15,4 +15,5 @@ axs.hist();
 axs.hist();
 
 plt.legend();
+plt.grid();
 plt.show();
