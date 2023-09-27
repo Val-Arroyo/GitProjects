@@ -14,4 +14,5 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
 axs.hist();
 axs.hist();
 
+plt.legend();
 plt.show();
