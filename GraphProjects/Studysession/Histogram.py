@@ -16,6 +16,6 @@ axs.hist(random_numner_2, color = 'black');
 
 plt.legend();
 plt.grid();
-plt.xlabel();
+plt.xlabel("X label");
 plt.ylabel();
 plt.show();
