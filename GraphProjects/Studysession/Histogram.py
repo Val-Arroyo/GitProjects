@@ -17,4 +17,5 @@ axs.hist();
 plt.legend();
 plt.grid();
 plt.xlabel();
+plt.ylabel();
 plt.show();
