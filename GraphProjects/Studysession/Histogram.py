@@ -10,3 +10,4 @@ random_number_1 = np.random.normal(240, 10, 240);
 random_numner_2 = np.random.normal(140, 10, 240);
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
+
