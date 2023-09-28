@@ -9,3 +9,5 @@ from matplotlib.ticker import PercentFormatter
 name = ["Mercedes", "AUDI", "BMW", "TESLA", "FORD"];
 
 data = [45, 15, 10, 20, 5, 5];
+
+
