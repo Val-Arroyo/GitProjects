@@ -8,4 +8,4 @@ from matplotlib.ticker import PercentFormatter
 #Dataset
 name = ["Mercedes", "AUDI", "BMW", "TESLA", "FORD"];
 
-data = [];
+data = [45, 15, 10, 20, 5, 5];
