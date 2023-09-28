@@ -6,4 +6,4 @@ from matplotlib.ticker import PercentFormatter
 from matplotlib import colors
 
 
-x_value = np.array([])
+x_value = np.array([]);
