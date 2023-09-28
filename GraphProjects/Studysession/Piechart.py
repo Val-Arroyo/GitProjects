@@ -10,7 +10,7 @@ name = ["Mercedes", "AUDI", "BMW", "TESLA", "FORD"];
 
 data = [45, 15, 10, 20, 10];
 
-Explode = [0.5, 0.5, 0.5, 0.5, 0.5];
+Explode = [0.1, 0.1, 0.1, 0.1, 0.1];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
