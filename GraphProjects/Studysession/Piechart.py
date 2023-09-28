@@ -13,3 +13,5 @@ data = [45, 15, 10, 20, 5, 5];
 explode = [0.5, 0.5, 0.5, 0.5, 0.5];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
+
+
