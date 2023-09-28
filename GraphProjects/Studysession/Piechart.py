@@ -14,4 +14,4 @@ explode = [0.5, 0.5, 0.5, 0.5, 0.5];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
-
+axs.pie()
