@@ -6,6 +6,8 @@ from matplotlib.ticker import PercentFormatter
 from matplotlib import colors
 
 
-x_value = np.array([]);
+x_value = np.array([1, 2, 3, 4, 5, 6]);
 
-y_value = np.array([]);
+y_value = np.array([10, 30, 50, 70, 90, 110]);
+
+fig, axs = plt.subplots();
