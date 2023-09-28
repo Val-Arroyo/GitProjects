@@ -6,4 +6,4 @@ from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 
 #Dataset
-name = ["Mercedes", "AUDI", "BMW"];
+name = ["Mercedes", "AUDI", "BMW", ];
