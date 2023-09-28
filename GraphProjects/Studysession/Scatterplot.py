@@ -10,4 +10,5 @@ x_value = np.array([1, 2, 3, 4, 5, 6]);
 
 y_value = np.array([10, 30, 50, 70, 90, 110]);
 
-fig, axs = plt.subplots();
+fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
+
