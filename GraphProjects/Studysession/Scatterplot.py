@@ -13,3 +13,5 @@ y_value = np.array([10, 30, 50, 70, 90, 110]);
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
 axs.scatter(x_value, y_value, color = 'red');
+
+plt.show();
