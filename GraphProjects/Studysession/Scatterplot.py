@@ -8,4 +8,4 @@ from matplotlib import colors
 
 x_value = np.array([]);
 
-y_value = np.array([])''
+y_value = np.array([]);
