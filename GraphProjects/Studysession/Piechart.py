@@ -10,6 +10,6 @@ phone_data = [45, 15, 10, 20, 10];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
-
+colors = [];
 
 axs.pie(phone_brands, phone_data, );
