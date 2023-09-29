@@ -5,5 +5,5 @@ import pandas as pd
 from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 
-phone_brands = ["Apple", "Samsung", "Oppo", "Oneplus", "Xiamu"];
+phone_brands = ["Apple", "Samsung", "Oppo", "Oneplus", "Xiaomi"];
 phone_data = [];
