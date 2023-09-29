@@ -14,6 +14,6 @@ Explode = [0.1, 0.1, 0.1, 0.1, 0.1];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5));
 
-axs.pie(data, labels = name, explode = Explode, edgecolor = );
+axs.pie(data, labels = name, explode = Explode, edgecolor = 'black');
 
 plt.show();
