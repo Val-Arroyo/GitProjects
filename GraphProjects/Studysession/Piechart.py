@@ -6,3 +6,4 @@ from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 
 phone_brands = []
+phone_data = [];
