@@ -5,13 +5,13 @@ import pandas as pd
 from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 
-phone_brands = ["Apple", "Samsung", "Oppo", "Oneplus", "Xiaomi"];
+phone_brands = ['Apple', 'Samsung', 'Oppo', 'Oneplus', 'Xiaomi'];
 phone_data = [45, 15, 10, 20, 10];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
-colors = ["Grey", "Blue", "Cyan", "Black", "White"];
+phone_colors = ("grey", "blue", "cyan", "black", "white");
 
-axs.pie(phone_brands, phone_data, colors = colors);
+axs.pie(phone_data, labels = phone_brands, colors = phone_colors);
 
 plt.show();
