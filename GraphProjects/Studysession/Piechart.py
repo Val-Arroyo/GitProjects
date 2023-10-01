@@ -9,4 +9,4 @@ brands = ["Apple", "Samsung", "Oneplus", "Xiaomi"];
 
 percent = [45, 35, 15, 5];
 
-fig, axs = subplots();
+fig, axs = subplots(1, 1);
