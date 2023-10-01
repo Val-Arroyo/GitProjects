@@ -12,3 +12,5 @@ percent = [45, 35, 15, 5];
 fig, axs = subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
 Explode = (0.1, 0.1, 0.1, 0.1);
+
+axs.pie()
