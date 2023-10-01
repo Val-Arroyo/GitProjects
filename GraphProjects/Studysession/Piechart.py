@@ -15,3 +15,4 @@ Explode = (0.1, 0.1, 0.1, 0.1);
 
 axs.pie(percent, labels = brands, explode = Explode);
 
+plt.show()
