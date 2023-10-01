@@ -7,4 +7,4 @@ from matplotlib import colors
 
 brands = ["Apple", "Samsung", "Oneplus", "Xiaomi"];
 
-percent = []
+percent = [];
