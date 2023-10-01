@@ -13,6 +13,6 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
 Explode = (0.1, 0.1, 0.1, 0.1);
 
-axs.pie(percent, labels = brands, explode = Explode);
+axs.pie(percent, labels = brands, explode = Explode, shadow = True);
 
 plt.show()
