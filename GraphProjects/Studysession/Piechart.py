@@ -14,6 +14,6 @@ Space = (0.1, 0.1, 0.1, 0.1);
 colors = ("grey", "blue", "white", "cyan");
 
 axs.pie(sales, labels = brands, shadow = True, explode = Space,
-        colors = colors, autopct='%1.1f%%')
+        colors = colors, autopct='%1f%%')
 
 plt.show();
