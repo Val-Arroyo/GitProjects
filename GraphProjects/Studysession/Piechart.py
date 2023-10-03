@@ -10,7 +10,7 @@ sales = [45.0, 25.0, 15.0, 15.0];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
-Space = ();
+Space = (0.1, 0.1);
 
 axs.pie(sales, label = brands)
 
