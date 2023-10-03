@@ -13,6 +13,7 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 Space = (0.1, 0.1, 0.1, 0.1);
 colors = ("grey", "blue", "black", "cyan");
 
-axs.pie(sales, labels = brands, shadow = True, explode = Space)
+axs.pie(sales, labels = brands, shadow = True, explode = Space,
+        colors = colors)
 
 plt.show();
