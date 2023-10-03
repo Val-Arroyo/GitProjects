@@ -11,7 +11,7 @@ sales = [45.0, 25.0, 15.0, 15.0];
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
 Space = (0.1, 0.1, 0.1, 0.1);
-colors = ("");
+colors = ("grey",);
 
 axs.pie(sales, labels = brands, shadow = True, explode = Space)
 
