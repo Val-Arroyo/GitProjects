@@ -8,4 +8,4 @@ from matplotlib import colors
 brands = ["Apple", "Samsung", "OnePlus", "Oppo"];
 sales = [45.0, 25.0, 15.0, 15.0];
 
-fig, axs = plt.subplots(1, 1, figsize = )
+fig, axs = plt.subplots(1, 1, figsize = (7, 5))
