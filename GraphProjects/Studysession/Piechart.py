@@ -6,3 +6,4 @@ from matplotlib.ticker import PercentFormatter
 from matplotlib import colors
 
 brands = [];
+sales = []
