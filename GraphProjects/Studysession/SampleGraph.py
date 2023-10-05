@@ -9,4 +9,4 @@ brands = ["Apple", "Samsung"];
 
 percentage = [65.0, 45.0];
 
-fig, axs = plt.subplots(1, 1);
+fig, axs = plt.subplots(1, 1, figsize = ());
