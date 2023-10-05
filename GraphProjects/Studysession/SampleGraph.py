@@ -17,3 +17,4 @@ axs.pie(percentage, labels = brands, colors = colors, shadow = True,
         autopct= '%1.1f%%');
 
 plt.grid();
+
