@@ -14,4 +14,5 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 colors = ("grey", "blue");
 
 axs.pie(percentage, labels = brands, colors = colors, shadow = True,
-        autopct= True);
+        autopct= '%1.1f%%');
+
