@@ -18,3 +18,4 @@ axs.pie(percentage, labels = brands, colors = colors, shadow = True,
 
 plt.grid();
 
+plt.show();
