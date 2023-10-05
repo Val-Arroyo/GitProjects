@@ -15,7 +15,10 @@ colors = ("grey", "blue");
 explode = [0.1, 0.1];
 
 axs.pie(percentage, labels = brands, colors = colors, shadow = True,
-        autopct= '%1.1f%%', startangle = 0, explode =  explode);
+        autopct= '%1.1f%%', startangle = 0, explode =  explode,
+        wedgeprops= {"edgecolor": "black",
+                    'linewidth': 2,
+                    'antialiased': True})
 
 plt.grid();
 
