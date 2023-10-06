@@ -14,6 +14,8 @@ explode = (0.1, 0.1);
 colors = ("grey", "blue");
 
 axs.pie(percentage, labels = brands, colors = colors, explode = explode,
-        shadow = True)
+        shadow = True, autopct = "%1.1f%%"
+        wedgeprops = {"linewidth": 2,
+                      ""})
 
 plt.show();
