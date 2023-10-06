@@ -15,3 +15,4 @@ colors = ("grey", "blue");
 
 axs.pie(percentage, labels = brands, colors = colors, explode = explode)
 
+plt.show();
