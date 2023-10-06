@@ -8,4 +8,4 @@ from matplotlib import colors
 brands = ["Apple", "Samsung"];
 percentage = [65, 45];
 
-fig, axs = plt.subplots();
+fig, axs = plt.subplots(1, 1);
