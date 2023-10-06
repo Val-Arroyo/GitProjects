@@ -7,3 +7,4 @@ from matplotlib import colors
 
 brands = ["Apple", "Samsung"];
 percentage = [65, 45];
+
