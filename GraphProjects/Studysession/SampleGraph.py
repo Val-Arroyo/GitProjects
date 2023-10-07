@@ -22,3 +22,5 @@ axs.pie(percentage, labels = brands, colors = colors, explode = explode,
 plt.axis('equal');
 plt.show();
 
+
+
