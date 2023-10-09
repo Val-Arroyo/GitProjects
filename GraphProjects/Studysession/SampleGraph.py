@@ -8,4 +8,4 @@ from matplotlib.ticker import PercentFormatter
 brands = ["Apple", "Samsung"];
 percentage = [65, 35];
 
-fig, axs = 
+fig, axs = plt.
