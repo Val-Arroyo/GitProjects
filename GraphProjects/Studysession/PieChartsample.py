@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+
 brands = ["Apple", "Samsung"];
 percent = [65, 35];
 
