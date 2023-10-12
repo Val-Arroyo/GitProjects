@@ -2,7 +2,7 @@ import matplotlib as plt
 import numpy as np
 import seaborn as sns
 import pandas as pd
-from matplotlib.ticker
+from matplotlib.ticker import 
 
 brands = ["Apple", "Samsung"];
 percent = [65, 35];
