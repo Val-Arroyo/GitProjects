@@ -1,7 +1,7 @@
 import matplotlib as plt
 import numpy as np
 import seaborn as sns
-
+import pandas 
 
 brands = ["Apple", "Samsung"];
 percent = [65, 35];
