@@ -17,5 +17,5 @@ axs.pie(percent, labels = brands, explode = explode,
         colors = colors, shadow = True);
 
 plt.grid();
-plt.legend()
+plt.legend();
 plt.show();
