@@ -14,4 +14,4 @@ colors = ("grey", "blue", "white", "purple")
 explode = (0.1, 0.1, 0.1, 0.1);
 
 axs.pie(percent, labels = brands, explode = explode,
-        colors = colors);
+        colors = colors, shadow = True);
