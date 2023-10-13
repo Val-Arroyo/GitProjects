@@ -14,7 +14,8 @@ colors = ("grey", "blue", "red", "purple")
 explode = (0.1, 0.1, 0.1, 0.1);
 
 axs.pie(percent, labels = brands, explode = explode,
-        colors = colors, shadow = True);
+        colors = colors, shadow = True,
+        wedgeprops = );
 
 plt.grid();
 plt.legend();
