@@ -13,8 +13,8 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 colors = ("grey", "blue", "white", "cyan")
 explode = (0.1, 0.1, 0.1, 0.1)
 axs.pie(percent, labels = brands, shadow = True, autopct = "%1.1f%%",
-        wedgeprops= {"linewidth": 3,
+        wedgeprops = {"linewidth": 3,
                      "edgecolor": "black",
-                     "antialiased": True"});
+                     "antialiased": True} );
 
 plt.show();
