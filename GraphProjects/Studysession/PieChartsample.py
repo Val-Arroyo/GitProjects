@@ -5,5 +5,5 @@ import pandas as pd
 from matplotlib import colors
 from matplotlib.ticker import PercentFormatter
 
-brands = ["Apple"];
+brands = ["Apple", ""];
 percent = []
