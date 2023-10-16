@@ -7,3 +7,4 @@ from matplotlib.ticker import PercentFormatter
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [35.0, 30.0, 10.0, 25.0];
+
