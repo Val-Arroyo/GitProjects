@@ -3,4 +3,4 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 from matplotlib import colors
-from matplotlib.ticker import 
+from matplotlib.ticker import PercentFormatterr
