@@ -15,4 +15,4 @@ explode = (0.1, 0.1, 0.1, 0.1);
 
 axs.pie(percent, labels = brands, explode = explode, colors = colors,
         wedgeprops= {"edgecolor": "black",
-                     });
+                     "linewidth": 3,});
