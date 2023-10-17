@@ -18,5 +18,5 @@ axs.pie(percent, labels = brands, explode = explode, colors = colors,
                      "linewidth": 3,
                      "antialiased": True});
 
-
+plt.axis()
 plt.show();
