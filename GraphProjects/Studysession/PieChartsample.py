@@ -6,5 +6,5 @@ from matplotlib.ticker import PercentFormatter
 from matplotlib import colors
 from matplotlib import style
 
-brands = ["Apple", "Samsung"];
+brands = ["Apple", "Samsung", "Google"];
 percent = [];
