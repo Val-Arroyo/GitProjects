@@ -8,3 +8,5 @@ from matplotlib import style
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [45.0, 25.0, 10.0, 20.0];
+
+fig, axs = plt.subplots();
