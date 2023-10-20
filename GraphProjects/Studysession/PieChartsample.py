@@ -11,6 +11,6 @@ percent = [45.0, 25.0, 10.0, 20.0];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5),tight_layout = True);
 
-colors = ();
+colors = ("grey");
 explode = ();
 axs.pie(percent, labels = brands, )
