@@ -18,3 +18,5 @@ axs.pie(percent, labels = brands, shadow = True, autopct = "%1.1f%%",
         wedgeprops= {"edgecolor": "black",
                      "linewidth": 3,
                      "antialiased": True})
+
+plt.grid();
