@@ -7,4 +7,4 @@ from matplotlib import colors
 from matplotlib import style
 
 brands = [];
-percent = 
+percent = [];
