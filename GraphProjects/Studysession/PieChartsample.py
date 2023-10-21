@@ -9,3 +9,4 @@ from matplotlib import style
 brands = [];
 percent = []
 
+fig, axs = plt.subplots(1, 1)
