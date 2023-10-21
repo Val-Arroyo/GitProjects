@@ -14,4 +14,6 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 explode = (0.1, 0.1, 0.1, 0.1);
 colors = ("grey", "blue", "white", "cyan");
 
-axs.pie(percent, labels = brands, );
+axs.pie(percent, labels = brands, colors = colors,
+        explode = explode, autopct = "%1.1f%%",
+        shadow = True,);
