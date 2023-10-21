@@ -16,4 +16,5 @@ colors = ("grey", "blue", "white", "cyan");
 
 axs.pie(percent, labels = brands, colors = colors,
         explode = explode, autopct = "%1.1f%%",
-        shadow = True,);
+        shadow = True,
+        wedgeprops = {"linewid"});
