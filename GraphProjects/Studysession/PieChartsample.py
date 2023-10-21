@@ -20,3 +20,4 @@ axs.pie(percent, labels = brands, colors = colors,
         wedgeprops = {"linewidth": 3,
                       "antialiased": True,
                       "edgecolor": "black"});
+
