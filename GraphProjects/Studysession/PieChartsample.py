@@ -21,5 +21,5 @@ axs.pie(percent, labels = brands, colors = colors,
                       "antialiased": True,
                       "edgecolor": "black"});
 
-
+plt.legend
 plt.show
