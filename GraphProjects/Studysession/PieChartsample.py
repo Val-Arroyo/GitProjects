@@ -22,5 +22,5 @@ axs.pie(percent, labels = brands, colors = colors,
                       "edgecolor": "black"});
 
 plt.legend();
-plt.axis("equals=");
+plt.axis("equal");
 plt.show();
