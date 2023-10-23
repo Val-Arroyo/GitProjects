@@ -9,3 +9,4 @@ from matplotlib import colors
 brands = [];
 percent = [];
 
+fig, axs = plt.subplots()
