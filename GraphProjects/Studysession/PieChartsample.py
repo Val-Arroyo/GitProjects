@@ -7,7 +7,7 @@ from matplotlib import colors
 from matplotlib import style 
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"]
-percent = []
+percent = [45.0]
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True);
 
