@@ -18,7 +18,7 @@ axs.pie(percent, labels = brands, shadow = True, autopct = "%1.1f%%",
         colors = colors, explode = explode,
         wedgeprops = {"antialiased": True,
                       "edgecolor": "black",
-                      "linewidth": 2});
+                      "linewidth": 3});
 
 plt.legend();
 plt.axis("equal")
