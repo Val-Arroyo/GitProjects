@@ -8,3 +8,5 @@ from matplotlib import style
 
 brands = []
 percent = []
+
+fig, axs = plt.subplots();
