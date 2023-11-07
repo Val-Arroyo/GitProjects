@@ -18,4 +18,4 @@ axs.pie(percent, labels = brands, colors = colors,
         explode = explode, autopct= "%1.1f%%", shadow = True,
         wedgeprops = {"antialiased": True,
                       "linewidth": 3,
-                      });
+                      "edgecolor": });
