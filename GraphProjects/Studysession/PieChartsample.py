@@ -22,3 +22,4 @@ axs.pie(percent, labels = brands, colors = colors,
 
 plt.legend();
 plt.grid();
+plt.axis();
