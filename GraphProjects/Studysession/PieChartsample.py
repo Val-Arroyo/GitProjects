@@ -20,3 +20,4 @@ axs.pie(percent, labels = brands, colors = colors,
                       "linewidth": 3,
                       "edgecolor": "black"});
 
+plt.legend();
