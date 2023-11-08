@@ -20,3 +20,7 @@ axs.pie(percent, labels = brands, autopct = "%1.1f%%",
                       "linewidth": 3,
                       "antialiased": True})
 
+plt.grid();
+plt.legend();
+plt.axis();
+plt.show();
