@@ -22,5 +22,5 @@ axs.pie(percent, labels = brands, autopct = "%1.1f%%",
 
 plt.grid();
 plt.legend();
-plt.axis();
+plt.axis("equal");
 plt.show();
