@@ -11,5 +11,5 @@ percent = [];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
 
-colors = ()
+colors = ("grey")
 style = ();
