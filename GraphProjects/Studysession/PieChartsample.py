@@ -6,7 +6,7 @@ from matplotlib.ticker import PercentFormatter
 from matplotlib import colors 
 from matplotlib import style
 
-brands = ["Apple"];
+brands = ["Apple", ""];
 percent = [];
 
 fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
