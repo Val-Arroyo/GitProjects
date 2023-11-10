@@ -14,4 +14,5 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
 colors = ("grey", "blue", "white", "cyan")
 style = (0.1, 0.1, 0.1, 0.1);
 
-axs.pie(percent, labels = brands, shadow = True);
+axs.pie(percent, labels = brands, shadow = True, 
+        );
