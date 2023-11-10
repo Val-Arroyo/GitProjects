@@ -20,4 +20,4 @@ axs.pie(percent, labels = brands, shadow = True,
                       "edgecolor": "black",
                       "antialiased": True});
 
-a
+plt.grid();
