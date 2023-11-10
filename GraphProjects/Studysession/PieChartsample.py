@@ -8,3 +8,4 @@ from matplotlib import style
 
 brands = [];
 percent = [];
+
