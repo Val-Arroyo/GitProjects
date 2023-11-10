@@ -21,3 +21,4 @@ axs.pie(percent, labels = brands, shadow = True,
                       "antialiased": True});
 
 plt.grid();
+plt.axis();
