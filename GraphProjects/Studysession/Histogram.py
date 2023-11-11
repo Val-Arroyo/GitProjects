@@ -14,6 +14,8 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
 axs.hist(random_number_1, color = 'black');
 axs.hist(random_numner_2, color = 'black');
 
+
+
 plt.legend();
 plt.grid();
 plt.xlabel("X label");
