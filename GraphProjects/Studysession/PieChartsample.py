@@ -20,7 +20,7 @@ axs.pie(percent, labels = brands, shadow = True,
         wedgeprops = {"linewidth": 3,
                       "edgecolor": "black",
                       "antialiased": True});
-
+plt.style.use("dark_background");
 
 plt.grid();
 plt.axis("equal");
