@@ -14,13 +14,13 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
 colors = ("grey", "blue", "white", "cyan")
 explode = (0.1, 0.1, 0.1, 0.1);
 
+plt.style.use("dark_background");
+
 axs.pie(percent, labels = brands, shadow = True, 
         colors = colors,  explode = explode, autopct = "%1.1f%%",
         wedgeprops = {"linewidth": 3,
                       "edgecolor": "black",
                       "antialiased": True});
-
-plt.style.use("dark_background");
 
 plt.grid();
 plt.axis("equal");
