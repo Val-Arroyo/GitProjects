@@ -20,6 +20,8 @@ axs.pie(percent, labels = brands, shadow = True,
                       "edgecolor": "black",
                       "antialiased": True});
 
+plt.style.use("");
+
 plt.grid();
 plt.axis("equal");
 plt.legend();
