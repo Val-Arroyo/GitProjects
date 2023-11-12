@@ -9,3 +9,4 @@ from matplotlib import style
 plt.style.use("dark_background");
 
 brands = [];
+percent = [];
