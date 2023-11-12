@@ -8,5 +8,5 @@ from matplotlib import style
 
 plt.style.use("dark_background");
 
-brands = ["Apple", "Samsung", "Google"];
+brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [];
