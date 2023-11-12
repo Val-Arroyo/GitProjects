@@ -6,3 +6,4 @@ from matplotlib.ticker import PercentFormatter
 from matplotlib import colors 
 from matplotlib import style
 
+plt.style.use("dark_background")
