@@ -18,4 +18,4 @@ explode = (0.1, 0.1, 0.1, 0.1);
 
 axs.pie(percent, labels = brands, colors = colors, 
         autopct = "%1.1f%%", explode = explode, shadow = True,
-        )
+        wedgeprops = {"antialiased": True,})
