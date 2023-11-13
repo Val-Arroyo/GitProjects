@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
-import pandas
+import pandas as 
 
 plt.style.use("dark_background");
 
