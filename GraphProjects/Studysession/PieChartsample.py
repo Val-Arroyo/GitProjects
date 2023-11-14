@@ -1,4 +1,4 @@
-import 
+import matplotlib.pyplot
 plt.style.use("dark_background"); 
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
