@@ -4,7 +4,6 @@ import seaborn as sns
 import pandas as pd
 from matplotlib.ticker import PercentFormatter
 
-
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [45.0, 25.0, 10.0, 20.0];
 
