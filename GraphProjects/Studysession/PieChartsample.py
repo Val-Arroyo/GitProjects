@@ -4,7 +4,7 @@ import seaborn as sns
 import pandas as pd
 from matplotlib.ticker import PercentFormatter
 from matplotlib import style
-
+from matplotlib
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [45.0, 25.0, 10.0, 20.0];
 
@@ -15,7 +15,7 @@ explode = (0.1, 0.1, 0.1, 0.1); seaborn as sns
 import pandas as pd
 from matplotlib.ticker import PercentFormatter
 from matplotlib import style
-
+from matplotlib
 axs.pie(percent, labels = brands, colors = colors, 
         autopct = "%1.1f%%", explode = explode, shadow = True,
         wedgeprops = {"antialiased": True,
@@ -29,3 +29,4 @@ plt.show() seaborn as sns
 import pandas as pd
 from matplotlib.ticker import PercentFormatter
 from matplotlib import style
+from matplotlib
