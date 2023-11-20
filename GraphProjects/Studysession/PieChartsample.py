@@ -5,6 +5,8 @@ import pandas as pd
 from matplotlib.ticker import PercentFormatter
 from matplotlib import style
 from matplotlib import colors 
+
+
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [45.0, 25.0, 10.0, 20.0];
 
@@ -16,6 +18,8 @@ import pandas as pd
 from matplotlib.ticker import PercentFormatter
 from matplotlib import style
 from matplotlib import colors 
+
+
 axs.pie(percent, labels = brands, colors = colors, 
         autopct = "%1.1f%%", explode = explode, shadow = True,
         wedgeprops = {"antialiased": True,
@@ -30,3 +34,4 @@ import pandas as pd
 from matplotlib.ticker import PercentFormatter
 from matplotlib import style
 from matplotlib import colors 
+
