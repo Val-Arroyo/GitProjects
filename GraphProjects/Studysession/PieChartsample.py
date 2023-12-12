@@ -3,7 +3,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 from matplotlib.ticker import PercentFormatter
-
+from matplotlib
 
 plt.style.use("dark_background");
 
@@ -24,4 +24,4 @@ axs.pie(percent, labels = brands, colors = colors,
 plt.grid();
 plt.axis("equal");
 plt.legend();
-plt.show();
+p
