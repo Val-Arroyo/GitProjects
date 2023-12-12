@@ -1,4 +1,4 @@
-import matplotlib.pyplot
+import matplotlib.pyplot as 
 
 plt.style.use("dark_background");
 
