@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn
+import seaborn as 
 
 plt.style.use("dark_background");
 
