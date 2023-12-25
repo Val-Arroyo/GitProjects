@@ -12,6 +12,7 @@ brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [45.0, 25.0, 10.0, 20.0];
 
 
+
 colors = ("grey", "blue", "red", "cyan");
 explode = (0.1, 0.1, 0.1, 0.1);         
 
