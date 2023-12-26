@@ -23,4 +23,4 @@ axs.pie(percent, labels = brands, colors = colors,
                       "edgecolor": "white"})
          
 plt.grid()
-plt.
+plt.legend()
