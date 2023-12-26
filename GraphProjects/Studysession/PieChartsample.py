@@ -22,4 +22,4 @@ axs.pie(percent, labels = brands, colors = colors,
                       "linewidth": 3,
                       "edgecolor": "white"})
          
-plt.grid()
+plt.grid
