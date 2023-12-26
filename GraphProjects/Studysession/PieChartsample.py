@@ -25,3 +25,4 @@ axs.pie(percent, labels = brands, colors = colors,
 plt.grid()
 plt.legend()
 plt.axis("equal")
+plt.
