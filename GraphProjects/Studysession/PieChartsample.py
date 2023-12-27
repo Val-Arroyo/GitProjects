@@ -11,7 +11,7 @@ plt.style.use("dark_background");
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [45.0, 25.0, 10.0, 20.0];
 
-fig, axs = plt.subplots(1)
+fig, axs = plt.subplots(1,)
 
 colors = ("grey", "blue", "red", "cyan");
 explode = (0.1, 0.1, 0.1, 0.1);         
