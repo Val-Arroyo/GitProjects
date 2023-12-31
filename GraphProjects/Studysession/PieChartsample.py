@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 plt.style.use("dark_background");
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
