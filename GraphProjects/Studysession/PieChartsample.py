@@ -18,7 +18,7 @@ explode = (0.1, 0.1, 0.1, 0.1);
 
 axs.pie(percent, labels = brands, explode = explode,
         autopct= "%1.1f%%", startangle = 0,
-        wedgeprops=)
+        wedgeprops =)
          
 plt.grid()
 plt.legend()
