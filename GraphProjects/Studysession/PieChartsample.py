@@ -22,7 +22,6 @@ axs.pie(percent, labels = brands, colors = colors, explode = explode,
                       "linewidth": 3,
                       "antialiased": True})
          
-         
 plt.grid()
 plt.legend()
 plt.axis("equal")
