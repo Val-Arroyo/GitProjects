@@ -16,11 +16,7 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
 colors = ("grey", "blue", "red", "cyan");
 explode = (0.1, 0.1, 0.1, 0.1);         
 
-axs.pie(percent, labels = brands, colors = colors, explode = explode,
-        autopct = "%1.1f%%", startangle = 0, shadow = True,
-        wedgeprops = {"edgecolor": "black",
-                      "linewidth": 3,
-                      "antialiased": True})
+
          
 plt.grid()
 plt.legend()
