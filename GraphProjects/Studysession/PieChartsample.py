@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy 
+import numpy as 
 
 plt.style.use("dark_background");
 
