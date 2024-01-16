@@ -4,6 +4,7 @@ import seaborn as sns
 import pandas as pd
 from matplotlib.ticker import per
 
+
 plt.style.use("dark_background");
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
