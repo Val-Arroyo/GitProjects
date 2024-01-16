@@ -3,7 +3,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 from matplotlib.ticker import per
-from matplotlib import 
+from matplotlib import style
 
 plt.style.use("dark_background");
 
