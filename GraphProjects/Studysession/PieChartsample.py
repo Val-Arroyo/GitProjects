@@ -18,7 +18,7 @@ explode = (0.1, 0.1, 0.1, 0.1);
 
 axs.pie(percent, labels = brands, colors = colors, explode = explode,
         autopct = "%1.1f%%", shadow = True, startangle = 0, 
-        wedgeprops = {""})
+        wedgeprops = {"edgecolor"})
       
 plt.grid()
 plt.legend()
