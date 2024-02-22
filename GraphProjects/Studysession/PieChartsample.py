@@ -17,11 +17,11 @@ colors = ("grey", "blue", "red", "cyan");
 explode = (0.1, 0.1, 0.1, 0.1);         
 
 axs.pie(percent, labels = brands, colors = colors, explode = explode,
-        autopct = "%1.1f%%", startangle = 0, 
-        wedgeprops= {"edgecolor": "black",
-                     "antialiased": True,
-                     ""})
-
+        autopct = "%1.1f%%", shadow = True, startangle = 0, 
+        wedgeprops = {"edgecolor": "black",
+                      "linewidth": 3, 
+                      "antialiased": True})
+      
 plt.grid()
 plt.legend()
 plt.axis("equal")
