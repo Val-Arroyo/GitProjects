@@ -17,6 +17,7 @@ colors = ("grey", "blue", "red", "cyan");
 explode = (0.1, 0.1, 0.1, 0.1);         
 
 axs.pie
+
 plt.grid()
 plt.legend()
 plt.axis("equal")
