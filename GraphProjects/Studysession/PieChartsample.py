@@ -4,6 +4,7 @@ import pandas as pd
 import seaborn as sns
 from matplotlib.ticker import PercentFormatter
 
+
 plt.style.use("dark_background");
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
