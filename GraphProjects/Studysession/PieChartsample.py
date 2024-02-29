@@ -16,7 +16,7 @@ fig, axs = plt.subplots(1, 1, figsize = (7, 5), tight_layout = True)
 colors = ("grey", "blue", "red", "cyan");
 explode = (0.1, 0.1, 0.1, 0.1);         
 
-axs.pie(percent, labels = brands, )
+axs.pie(percent, labels = brands, colors )
       
 plt.grid()
 plt.legend()
