@@ -20,7 +20,7 @@ axs.pie(percent, labels = brands, colors = colors, explode = explode,
         autopct = "%1.1f%%", startangle = 0, shadow = True,
         wedgeprops = {"linewidth": 3,
                       "edgecolor": "black",
-                      }) 
+                      "antialiased"}) 
       
 plt.grid()
 plt.legend()
