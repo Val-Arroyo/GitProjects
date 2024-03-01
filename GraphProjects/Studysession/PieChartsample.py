@@ -17,7 +17,7 @@ colors = ("grey", "blue", "red", "cyan");
 explode = (0.1, 0.1, 0.1, 0.1);         
 
 axs.pie(percent, labels = brands, colors = colors, explode = explode, 
-        autopct=)
+        autopct= = "")
       
 plt.grid()
 plt.legend()
