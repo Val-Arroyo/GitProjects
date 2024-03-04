@@ -1,4 +1,4 @@
-import matplotlib.pyplot 
+import matplotlib.pyplot as plt
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
 percent = [45.0, 25.0, 10.0, 20.0];
