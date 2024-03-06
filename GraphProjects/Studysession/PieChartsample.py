@@ -22,7 +22,7 @@ axs.pie(percent, labels = brands, colors = colors, explode = explode,
                       "edgecolor": "black",
                       "antialiased": True});
 
-axs.set_title()
+axs.set_title("")
 
       
 plt.grid()
