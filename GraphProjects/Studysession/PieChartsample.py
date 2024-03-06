@@ -23,7 +23,6 @@ axs.pie(percent, labels = brands, colors = colors, explode = explode,
                       "antialiased": True});
 
 axs.set_title("Phone Brand Percentage")
-
       
 plt.grid()
 plt.legend()
