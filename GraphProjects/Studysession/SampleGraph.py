@@ -17,6 +17,6 @@ axs.pie(percentage, labels = brands, shadow = True, autopct = "%1.1f%%",
         wedgeprops = {"edgecolor": "black",
                       "linewidth": 3,
                       "antialiased": True} );
-axs.set_title("Apple and Samsung Comparison", fontsize = 16, color = "")
+axs.set_title("Apple and Samsung Comparison", fontsize = 16, color = "black")
 
 plt.show();
