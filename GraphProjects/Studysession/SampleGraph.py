@@ -18,4 +18,5 @@ axs.pie(percentage, labels = brands, shadow = True, autopct = "%1.1f%%",
                       "linewidth": 3,
                       "antialiased": True} );
 
+
 plt.show();
