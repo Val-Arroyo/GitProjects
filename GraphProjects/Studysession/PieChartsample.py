@@ -6,6 +6,8 @@ from matplotlib.ticker import PercentFormatter
 from matplotlib import style
 from matplotlib import colors 
 
+
+
 plt.style.use("dark_background")
 
 brands = ["Apple", "Samsung", "Google", "OnePlus"];
