@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import pandas as pd
-from matplotlib.ticker 
+from matplotlib.ticker as 
 
 plt.style.use("dark_background")
 
