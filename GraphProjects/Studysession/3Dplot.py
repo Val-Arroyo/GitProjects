@@ -3,7 +3,7 @@ import numpy as np
 from mpl_toolkits import mplot3d
 
 z = np.random.randint(100, size=(50));
-x = np.random
+x = np.random.randint
 
 fig = plt.figure();
 
