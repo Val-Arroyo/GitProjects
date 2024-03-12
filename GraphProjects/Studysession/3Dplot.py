@@ -3,4 +3,4 @@ import numpy as np
 
 fig = plt.figure();
 
-ax = plt.
+ax = plt.axes()
