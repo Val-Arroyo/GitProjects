@@ -3,4 +3,4 @@ import numpy as np
 
 fig = plt.figure();
 
-ax = plt.axes(projection);
+ax = plt.axes(projection = "3D");
