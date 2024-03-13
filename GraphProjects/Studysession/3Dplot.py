@@ -1,7 +1,7 @@
 
 import matplotlib.pyplot as plt
 import numpy as np
-from mpl_toolkits import 
+from mpl_toolkits import mplot3d
 # Data
 categories = ['A', 'B', 'C', 'D', 'E']
 values1 = [20, 35, 30, 35, 27]
