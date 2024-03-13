@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from 
+from mpl_toolkits
 
 # Data
 x = np.array([1, 2, 3, 4, 5])
