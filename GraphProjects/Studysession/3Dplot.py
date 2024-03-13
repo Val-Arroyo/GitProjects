@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-
+import 
 
 z = np.random.randint(100, size = (50));
 x = np.random.randint(80, size = (50));
