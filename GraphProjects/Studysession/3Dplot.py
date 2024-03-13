@@ -9,7 +9,7 @@ plt.style.use("dark_background")
 fig = plt.figure(figsize = (10, 7));
 ax = plt.axes(projection = "3d");
 
-ax.hist3D(data, bins = 30, color = "skyblue", edgecolor = )
+ax.hist3D(data, bins = 30, color = "skyblue", edgecolor = "")
 plt.title("Simple 3D Scatter Plot")
 
 plt.show();
