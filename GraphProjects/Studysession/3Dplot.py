@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from mpl_toolkits import mplot3d
 
-
+data = np.random.randn()
 
 plt.style.use("dark_background")
 
