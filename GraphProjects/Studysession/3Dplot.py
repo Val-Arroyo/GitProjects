@@ -3,6 +3,7 @@ import numpy as np
 from mpl_toolkits import mplot3d
 
 plt.style.use("dark_background");
+
 # Data
 x = np.array([1, 2, 3, 4, 5])
 y = np.array([1, 2, 3, 4, 5])
