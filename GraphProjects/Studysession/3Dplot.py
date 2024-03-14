@@ -33,4 +33,3 @@ ax.legend()
 
 # Show plot
 plt.show()
-
