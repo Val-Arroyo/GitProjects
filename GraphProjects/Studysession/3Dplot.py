@@ -35,5 +35,3 @@ ax.legend()
 plt.show()
 
 
-
-
