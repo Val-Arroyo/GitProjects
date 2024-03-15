@@ -1,35 +1,27 @@
-
-import matplotlib.pyplot as plt
 import numpy as np
-from mpl_toolkits import mplot3d
+import matplotlib.pyplot as plt
+from 
 
-# Data
-categories = ['A', 'B', 'C', 'D', 'E']
-values1 = [20, 35, 30, 35, 27]
-values2 = [25, 32, 34, 20, 25]
-values3 = [30, 30, 25, 27, 20]
+# Data for the bar graph
+x = [1, 2, 3, 4, 5]
+y = [1, 2, 3, 4, 5]
+z = np.zeros((len(x), len(y)))
+dx = np.ones((len(x), len(y)))
+dy = np.ones((len(x), len(y)))
+dz = [1, 2, 3, 4, 5]  # Heights of the bars
 
-# Create a figure and 3D axes
-fig = plt.figure(figsize=(10, 6))
+# Create a 3D figure
+fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
 
-# Calculate bottom positions for bars
-bottom1 = np.zeros(len(categories))
-bottom2 = np.array(values1)
-bottom3 = np.array(values1) + np.array(values2)
+# Plot the 3D bars
+ax.bar3d(x, y, z, dx, dy, dz)
 
-# Plot bars for each group
-for i, (bottom, values, color, label) in enumerate(zip([bottom1, bottom2, bottom3], [values1, values2, values3], ['r', 'g', 'b'], ['Group 1', 'Group 2', 'Group 3'])):
-    ax.bar(categories, values, zs=i, zdir='y', color=color, alpha=0.8, label=label)
+# Customize labels and title
+ax.set_xlabel('X Label')
+ax.set_ylabel('Y Label')
+ax.set_zlabel('Z Label')
+plt.title('3D Bar Graph')
 
-# Set labels and title
-ax.set_xlabel('Categories')
-ax.set_ylabel('Groups')
-ax.set_zlabel('Values')
-ax.set_title('Stacked Bar Graph in 3D')
-
-# Add legend
-ax.legend()
-
-# Show plot
+# Show the plot
 plt.show()
