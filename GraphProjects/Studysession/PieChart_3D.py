@@ -12,17 +12,14 @@ z = np.sin(np.sqrt(x**2 + y**2))
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
 
-# Plot 3D surface
-surf = ax.plot_surface(x, y, z, cmap='viridis')
+# Plot 3D wireframe
+ax.plot_wireframe(x, y, z, color='b')
 
 # Customize labels and title
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
-plt.title('3D Surface Plot')
-
-# Add a color bar which maps values to colors
-fig.colorbar(surf)
+plt.title('3D Wireframe Plot')
 
 # Show plot
 plt.show()
