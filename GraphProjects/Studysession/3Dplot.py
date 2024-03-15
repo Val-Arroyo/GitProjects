@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from 
+from mpl_toolkits
 
 # Data for the bar graph
 x = [1, 2, 3, 4, 5]
