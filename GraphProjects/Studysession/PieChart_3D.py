@@ -55,3 +55,4 @@ ax_bar.set_title('Bar Graph')
 plt.tight_layout()
 plt.show()
 
+
