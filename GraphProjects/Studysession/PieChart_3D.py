@@ -54,3 +54,4 @@ ax_bar.set_title('Bar Graph')
 # Show the plots
 plt.tight_layout()
 plt.show()
+
