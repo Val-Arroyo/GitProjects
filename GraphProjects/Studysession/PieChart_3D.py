@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d
+from mpl_toolkits.mplot3d import 
 
 # Generate data for the surface plot
 x_surf = np.linspace(-5, 5, 100)
