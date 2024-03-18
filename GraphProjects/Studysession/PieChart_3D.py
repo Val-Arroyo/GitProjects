@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
-import pandas 
+import pandas as 
 from mpl_toolkits.mplot3d import Axes3D
 
 # Generate data for the surface plot
