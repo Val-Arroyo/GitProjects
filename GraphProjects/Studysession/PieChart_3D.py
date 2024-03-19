@@ -1,4 +1,4 @@
-import matplotlib.pyplot as 
+import matplotlib.pyplot as plt
 
 # Generate data for the surface plot
 x_surf = np.linspace(-5, 5, 100)
