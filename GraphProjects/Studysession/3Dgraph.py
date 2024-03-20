@@ -8,4 +8,5 @@ tips = sns.load_dataset("tips")
 sns.scatterplot(x="total_bill", y="tip", data=tips)
 
 plt.title('Simple Scatter Plot')
+
 plt.show()
