@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
+
 # Generate data for the surface plot
 x_surf = np.linspace(-5, 5, 100)
 y_surf = np.linspace(-5, 5, 100)
