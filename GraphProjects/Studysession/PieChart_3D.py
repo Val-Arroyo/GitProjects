@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
-import pandas as 
+import pandas as pd
 
 # Generate data for the surface plot
 x_surf = np.linspace(-5, 5, 100)
