@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import pandas as pd
-import 
+from 
 from mpl_toolkits.mplot3d import Axes3D
 
 # Data for the stacked bar graph
