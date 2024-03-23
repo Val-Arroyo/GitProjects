@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import pandas as pd
-import mpl_toolkits.mplot3d
+import mpl_toolkits.mplot3d import 
 
 # Data for the stacked bar graph
 x = np.array([1, 2, 3, 4, 5])  # X coordinates
