@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as 
+import numpy as np
 
 # Data for the stacked bar graph
 x = np.array([1, 2, 3, 4, 5])  # X coordinates
