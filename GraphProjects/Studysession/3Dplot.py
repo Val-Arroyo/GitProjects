@@ -4,7 +4,7 @@ import seaborn as sns
 import pandas as pd
 from matplotlib import colors
 from matplotlib import style 
-from mpl_toolkits.mplot3d import 
+from mpl_toolkits.mplot3d import Axes3D
 
 # Data for the stacked bar graph
 x = np.array([1, 2, 3, 4, 5])  # X coordinates
