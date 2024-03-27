@@ -6,6 +6,8 @@ from matplotlib import style
 from matplotlib import colors
 from mpl_toolkits.mplot3d import Axes3D
 
+
+
 # Data for the stacked bar graph
 x = np.array([1, 2, 3, 4, 5])  # X coordinates
 y = np.array([1, 2, 3, 4, 5])  # Y coordinates
