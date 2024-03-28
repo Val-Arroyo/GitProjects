@@ -15,6 +15,7 @@ plt.style.use("dark_background");
 
 
 
+
 # Data for the stacked bar graph
 x = np.array([1, 2, 3, 4, 5])  # X coordinates
 y = np.array([1, 2, 3, 4, 5])  # Y coordinates
