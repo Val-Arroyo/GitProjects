@@ -36,3 +36,4 @@ plt.title('Stacked Bar Graph in 3D')
 # Show the plot
 plt.show()
 
+
