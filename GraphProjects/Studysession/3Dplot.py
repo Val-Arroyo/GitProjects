@@ -5,6 +5,7 @@ import pandas as pd
 from matplotlib import colors 
 from matplotlib import style
 
+
 plt.style.use("dark_background");
 
 # Data for the stacked bar graph
