@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
+
 plt.style.use("dark_background");
 
 # Data for the stacked bar graph
