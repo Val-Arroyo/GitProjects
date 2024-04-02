@@ -4,6 +4,7 @@ import seaborn as sns
 import pandas as pd
 from matplotlib import colors 
 
+
 plt.style.use("dark_background");
 
 # Data for the stacked bar graph
