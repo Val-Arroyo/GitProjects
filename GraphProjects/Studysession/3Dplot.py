@@ -3,6 +3,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
+
 plt.style.use("dark_background");
 
 # Data for the stacked bar graph
