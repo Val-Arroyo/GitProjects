@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 plt.style.use("dark_background");
 
 # Data for the stacked bar graph
