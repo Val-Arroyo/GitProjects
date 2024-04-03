@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import pandas as pd
-from mpl_toolkits.
+from mpl_toolkits.mplot3d import 
 
 # Define the function to plot
 def f(x, y):
