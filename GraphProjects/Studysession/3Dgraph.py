@@ -1,4 +1,5 @@
-import matplotlib.pyplot as 
+import matplotlib.pyplot as plt
+
 
 # Define the function to plot
 def f(x, y):
