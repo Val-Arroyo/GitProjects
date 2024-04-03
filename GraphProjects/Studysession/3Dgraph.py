@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import 
+import seaborn as 
 
 # Define the function to plot
 def f(x, y):
