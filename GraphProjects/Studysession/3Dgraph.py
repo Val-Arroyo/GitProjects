@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 # Define the function to plot
 def f(x, y):
     return np.sin(np.sqrt(x**2 + y**2))
