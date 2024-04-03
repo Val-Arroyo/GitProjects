@@ -2,17 +2,31 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
+# Define the function to plot
+def f(x, y):
+    return np.sin(np.sqrt(x**2 + y**2))
+
+# Generate data
+x = np.linspace(-5, 5, 100)
+y = np.linspace(-5, 5, 100)
+X, Y = np.meshgrid(x, y)
+Z = f(X, Y)
+
+# Create a figure and a 3D axis
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
 
-u = np.linspace(0, 2*np.pi, 100)
-v = np.linspace(-1, 1, 100)
-U, V = np.meshgrid(u, v)
-X = (1 + 0.5*V*np.cos(U/2))*np.cos(U)
-Y = (1 + 0.5*V*np.cos(U/2))*np.sin(U)
-Z = 0.5*V*np.sin(U/2)
+# Plot the surface
+surf = ax.plot_surface(X, Y, Z, cmap='viridis')
 
-ax.plot_surface(X, Y, Z, rstride=5, cstride=5, color='c', edgecolors='k')
+# Add a color bar which maps values to colors
+fig.colorbar(surf)
 
+# Set labels and title
+ax.set_xlabel('X')
+ax.set_ylabel('Y')
+ax.set_zlabel('Z')
+ax.set_title('Surface plot of $z = \sin(\sqrt{x^2 + y^2})$')
+
+# Show the plot
 plt.show()
-
