@@ -35,3 +35,4 @@ ax.set_title('3D Surface Plot with Contour Projections')
 
 # Show the plot
 plt.show()
+
