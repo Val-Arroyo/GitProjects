@@ -4,7 +4,7 @@ import seaborn as sns
 import pandas as pd
 from matplotlib import style
 from matplotlib import colors
-from mpl_toolkits.mplot3d
+from mpl_toolkits.mplot3d import 
 
 # Generate data
 x = np.linspace(-5, 5, 100)
