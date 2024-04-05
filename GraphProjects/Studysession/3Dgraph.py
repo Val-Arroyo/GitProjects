@@ -3,6 +3,7 @@ import numpy as np
 import seaborn as sns
 import pandas as pd
 
+
 # Generate data
 x = np.linspace(-5, 5, 100)
 y = np.linspace(-5, 5, 100)
