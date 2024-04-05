@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 import pandas as pd
-from matplotlib
+from matplotlib import 
 
 # Generate data
 x = np.linspace(-5, 5, 100)
