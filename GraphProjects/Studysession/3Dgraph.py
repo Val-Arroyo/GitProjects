@@ -1,4 +1,4 @@
-import matplotlib
+import matplotlib.pyplot 
 
 # Generate data
 x = np.linspace(-5, 5, 100)
