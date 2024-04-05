@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+
 # Generate data
 x = np.linspace(-5, 5, 100)
 y = np.linspace(-5, 5, 100)
