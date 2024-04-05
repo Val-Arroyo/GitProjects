@@ -5,6 +5,7 @@ import pandas as pd
 from matplotlib import style
 from matplotlib import colors
 
+
 # Generate data
 x = np.linspace(-5, 5, 100)
 y = np.linspace(-5, 5, 100)
