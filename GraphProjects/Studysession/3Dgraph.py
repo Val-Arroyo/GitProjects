@@ -6,7 +6,7 @@ from matplotlib import colors
 from matplotlib import style
 from mpl_toolkits.mplot3d import Axes3D
 
-plt.style.use("")
+plt.style.use("dark")
 
 # Generate data
 x = np.linspace(-5, 5, 100)
