@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import 
 
 # Generate data
 x = np.linspace(-5, 5, 100)
@@ -33,4 +34,4 @@ ax.set_zlabel('Z')
 ax.set_title('3D Surface Plot with Contour Projections')
 
 # Show the plot
-plt.show()
+plt
