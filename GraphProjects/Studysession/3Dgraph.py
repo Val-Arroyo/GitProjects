@@ -34,4 +34,4 @@ ax.set_zlabel('Z')
 ax.set_title('3D Surface Plot with Contour Projections')
 
 # Show the plot
-plt
+plt.show()
