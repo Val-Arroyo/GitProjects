@@ -34,4 +34,3 @@ ax.set_title('Multiple Stacked 3D Bar Graph')
 plt.show()
 
 
-
